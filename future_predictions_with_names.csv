@@ -1,0 +1,501 @@
+Employee ID,Department,Education Level,Attrition,Job Role,Joining Date,Monthly Salary,Performance Rating,Years at Company,Tenure Years,Predictions
+EMP2000,Finance,PhD,0,Manager,2019-03-26,143169.0,1,2,5,No
+EMP2001,Operations,Master's,1,Analyst,2016-04-13,77777.0,1,6,8,Yes
+EMP2002,Finance,Bachelor's,0,Manager,2021-03-09,128901.0,1,7,3,Yes
+EMP2003,Marketing,High School,1,Associate,2018-02-09,69881.0,4,1,6,Yes
+EMP2004,Finance,High School,0,Analyst,2017-10-28,41044.0,5,6,7,No
+EMP2005,HR,Master's,1,Analyst,2022-10-22,75199.0,3,8,2,Yes
+EMP2006,Sales,Master's,0,Executive,2021-11-29,74363.0,4,5,3,No
+EMP2007,IT,Bachelor's,0,Technician,2017-05-23,43926.0,4,7,7,No
+EMP2008,Sales,PhD,0,Associate,2016-04-04,36582.0,5,6,8,No
+EMP2009,Operations,Bachelor's,0,Consultant,2021-04-19,116844.0,4,4,3,Yes
+EMP2010,Finance,High School,1,Associate,2019-03-30,56301.0,1,7,5,Yes
+EMP2011,Operations,PhD,1,Consultant,2017-01-21,51620.0,1,9,8,Yes
+EMP2012,IT,PhD,1,Consultant,2019-01-01,112224.0,2,7,6,Yes
+EMP2013,Operations,PhD,0,Manager,2019-11-13,126655.0,4,5,5,No
+EMP2014,Marketing,Bachelor's,0,Consultant,2017-05-03,87534.0,2,7,7,No
+EMP2015,Sales,High School,0,Consultant,2021-04-02,89390.0,3,3,3,Yes
+EMP2016,IT,Master's,0,Executive,2018-08-22,56093.0,1,2,6,No
+EMP2017,IT,Bachelor's,0,Analyst,2016-04-22,62259.0,3,5,8,No
+EMP2018,IT,Master's,0,Associate,2022-06-19,55655.0,5,4,2,Yes
+EMP2019,HR,PhD,1,Associate,2021-03-13,68005.0,1,5,3,Yes
+EMP2020,Sales,PhD,1,Consultant,2022-12-12,81629.0,3,8,2,Yes
+EMP2021,Operations,Bachelor's,1,Technician,2015-05-15,53610.0,5,4,9,Yes
+EMP2022,IT,High School,1,Associate,2018-02-26,56602.0,3,9,6,No
+EMP2023,Sales,PhD,1,Consultant,2016-02-14,61110.0,5,7,8,Yes
+EMP2024,IT,Master's,1,Manager,2018-12-16,76073.0,5,7,6,Yes
+EMP2025,Marketing,Master's,1,Manager,2018-08-10,80195.0,1,8,6,Yes
+EMP2026,Marketing,Bachelor's,1,Manager,2018-06-23,71537.0,2,6,6,Yes
+EMP2027,Marketing,Master's,0,Consultant,2019-04-29,67138.0,5,8,5,No
+EMP2028,Finance,High School,0,Executive,2015-03-27,94328.0,5,3,9,No
+EMP2029,IT,PhD,0,Technician,2022-02-16,56834.0,1,1,2,No
+EMP2030,Finance,Master's,0,Consultant,2020-02-09,96202.0,2,6,4,Yes
+EMP2031,Sales,Master's,0,Executive,2019-01-09,90164.0,4,1,6,No
+EMP2032,Finance,PhD,0,Executive,2016-01-13,74207.0,4,9,9,No
+EMP2033,Sales,Bachelor's,0,Associate,2019-08-08,55619.0,2,2,5,No
+EMP2034,Sales,Master's,1,Consultant,2017-12-10,99692.0,3,2,7,Yes
+EMP2035,Sales,Bachelor's,1,Consultant,2015-08-30,74845.0,1,7,9,Yes
+EMP2036,Operations,Bachelor's,0,Executive,2017-07-08,74310.0,2,2,7,No
+EMP2037,Finance,Master's,1,Executive,2019-05-06,87899.0,4,8,5,Yes
+EMP2038,Operations,High School,1,Executive,2021-05-02,80562.0,5,6,3,Yes
+EMP2039,IT,Bachelor's,1,Associate,2022-07-22,63036.0,4,7,2,Yes
+EMP2040,Finance,Master's,1,Consultant,2018-06-25,110752.0,5,7,6,Yes
+EMP2041,IT,Bachelor's,1,Executive,2015-03-11,58697.0,1,6,9,Yes
+EMP2042,IT,PhD,0,Manager,2020-10-05,138681.0,5,9,4,No
+EMP2043,Sales,High School,1,Consultant,2018-11-06,77818.0,2,9,6,Yes
+EMP2044,Finance,High School,0,Associate,2020-09-17,65544.0,5,7,4,No
+EMP2045,IT,PhD,0,Manager,2020-06-30,132532.0,3,9,4,No
+EMP2046,Marketing,PhD,0,Analyst,2017-03-11,53100.0,2,3,7,No
+EMP2047,IT,Bachelor's,1,Consultant,2017-11-07,107705.0,1,3,7,Yes
+EMP2048,Marketing,PhD,0,Analyst,2022-08-11,60104.0,2,1,2,No
+EMP2049,Finance,High School,0,Executive,2017-04-04,54067.0,3,5,7,No
+EMP2050,Operations,PhD,0,Associate,2017-01-25,65728.0,1,4,8,No
+EMP2051,Finance,Master's,0,Executive,2021-07-27,82317.0,4,2,3,No
+EMP2052,Operations,Master's,1,Associate,2020-06-18,66416.0,3,9,4,Yes
+EMP2053,Operations,Bachelor's,0,Technician,2020-01-14,39244.0,1,3,5,No
+EMP2054,Finance,High School,0,Executive,2018-08-14,90049.0,5,8,6,No
+EMP2055,IT,Master's,0,Analyst,2021-05-19,42509.0,2,6,3,Yes
+EMP2056,HR,PhD,0,Associate,2019-05-29,56400.0,1,5,5,No
+EMP2057,IT,Master's,1,Executive,2015-04-20,98270.0,2,1,9,Yes
+EMP2058,IT,Master's,0,Consultant,2017-10-13,99833.0,5,4,7,No
+EMP2059,Sales,Bachelor's,0,Associate,2020-05-15,49670.0,1,3,4,No
+EMP2060,Sales,PhD,0,Associate,2022-02-04,38932.0,4,1,3,No
+EMP2061,IT,PhD,0,Executive,2019-11-05,97363.0,3,5,5,No
+EMP2062,Marketing,PhD,0,Technician,2015-01-25,56705.0,1,6,10,No
+EMP2063,Operations,Bachelor's,0,Executive,2017-04-22,95809.0,5,2,7,No
+EMP2064,Sales,PhD,1,Analyst,2022-10-09,78328.0,1,3,2,Yes
+EMP2065,IT,PhD,0,Analyst,2017-01-07,76784.0,2,6,8,No
+EMP2066,HR,Master's,1,Associate,2020-10-05,58723.0,1,4,4,Yes
+EMP2067,Marketing,Master's,1,Associate,2015-06-29,35719.0,4,9,9,Yes
+EMP2068,Finance,PhD,0,Executive,2015-08-20,50074.0,1,5,9,Yes
+EMP2069,IT,High School,1,Analyst,2020-04-01,66498.0,3,4,4,Yes
+EMP2070,IT,High School,0,Analyst,2015-12-09,71345.0,1,2,9,Yes
+EMP2071,Operations,PhD,1,Technician,2016-04-21,50541.0,2,6,8,Yes
+EMP2072,Marketing,High School,0,Consultant,2019-12-28,95929.0,1,2,5,Yes
+EMP2073,Sales,Bachelor's,1,Technician,2022-03-08,54895.0,4,7,2,Yes
+EMP2074,Sales,Master's,1,Manager,2016-03-30,96028.0,5,3,8,Yes
+EMP2075,Sales,Bachelor's,0,Technician,2018-06-09,59545.0,1,9,6,No
+EMP2076,Finance,Master's,1,Executive,2015-10-16,64033.0,1,5,9,Yes
+EMP2077,Marketing,High School,1,Consultant,2018-05-21,81673.0,3,8,6,Yes
+EMP2078,Marketing,High School,1,Executive,2021-04-24,80974.0,4,6,3,Yes
+EMP2079,Sales,PhD,1,Manager,2016-06-13,128899.0,5,8,8,Yes
+EMP2080,Sales,High School,1,Consultant,2022-06-27,73097.0,2,3,2,Yes
+EMP2081,Operations,High School,0,Associate,2021-03-26,62608.0,1,3,3,No
+EMP2082,HR,PhD,1,Analyst,2016-08-18,63525.0,5,5,8,Yes
+EMP2083,HR,PhD,1,Technician,2016-03-10,55036.0,2,3,8,Yes
+EMP2084,IT,Master's,0,Executive,2017-05-31,65043.0,4,8,7,No
+EMP2085,IT,High School,0,Manager,2019-11-17,111846.0,4,8,5,No
+EMP2086,Marketing,Master's,0,Analyst,2016-02-06,51725.0,5,2,9,Yes
+EMP2087,Marketing,Master's,1,Technician,2022-04-23,33936.0,2,4,2,Yes
+EMP2088,Finance,Bachelor's,1,Analyst,2020-11-05,77383.0,4,1,4,Yes
+EMP2089,Finance,High School,1,Technician,2022-03-16,59483.0,5,4,2,Yes
+EMP2090,HR,High School,1,Associate,2019-04-15,42265.0,4,4,5,No
+EMP2091,IT,Bachelor's,0,Consultant,2015-11-05,72763.0,4,9,9,No
+EMP2092,HR,Master's,0,Analyst,2015-12-09,50116.0,4,3,9,No
+EMP2093,HR,High School,1,Analyst,2016-03-11,55733.0,3,2,8,No
+EMP2094,IT,Master's,1,Analyst,2015-06-26,65502.0,2,9,9,Yes
+EMP2095,Finance,Bachelor's,1,Consultant,2015-05-19,87420.0,5,9,9,Yes
+EMP2096,Operations,PhD,1,Manager,2015-07-13,79247.0,5,1,9,Yes
+EMP2097,Operations,Master's,0,Technician,2018-03-30,53840.0,2,6,6,No
+EMP2098,Operations,High School,0,Associate,2017-07-31,56058.0,2,8,7,No
+EMP2099,IT,PhD,1,Analyst,2016-06-08,74929.0,2,3,8,Yes
+EMP2100,Sales,Master's,0,Consultant,2019-06-13,81362.0,2,9,5,No
+EMP2101,Sales,Master's,1,Manager,2021-03-07,117356.0,1,2,3,Yes
+EMP2102,Sales,PhD,1,Technician,2017-01-10,42061.0,5,6,8,Yes
+EMP2103,Marketing,PhD,0,Consultant,2017-05-11,56041.0,1,1,7,No
+EMP2104,Finance,PhD,1,Associate,2017-08-11,47673.0,4,7,7,No
+EMP2105,Finance,High School,0,Associate,2018-07-26,56059.0,4,3,6,No
+EMP2106,Marketing,High School,1,Technician,2018-06-28,31560.0,5,7,6,Yes
+EMP2107,HR,Master's,0,Analyst,2019-10-10,57548.0,4,4,5,No
+EMP2108,Operations,Master's,1,Associate,2022-11-20,50078.0,2,9,2,Yes
+EMP2109,Sales,Bachelor's,0,Manager,2020-12-27,75419.0,1,5,4,No
+EMP2110,Operations,High School,1,Consultant,2017-03-02,85490.0,2,3,7,Yes
+EMP2111,Sales,Master's,1,Manager,2016-06-29,146086.0,4,8,8,Yes
+EMP2112,Operations,PhD,0,Analyst,2020-01-19,70337.0,1,6,5,No
+EMP2113,HR,PhD,1,Manager,2017-10-13,71468.0,2,2,7,Yes
+EMP2114,Operations,High School,0,Manager,2020-04-11,94309.0,5,3,4,No
+EMP2115,Operations,PhD,0,Executive,2019-04-03,50808.0,2,8,5,No
+EMP2116,IT,Bachelor's,1,Manager,2015-02-26,142255.0,4,7,9,Yes
+EMP2117,Operations,Master's,1,Technician,2020-11-29,58702.0,1,6,4,Yes
+EMP2118,IT,Master's,1,Consultant,2015-01-05,78718.0,5,1,10,Yes
+EMP2119,Finance,Master's,1,Executive,2018-12-08,78801.0,1,9,6,Yes
+EMP2120,Marketing,High School,0,Consultant,2018-09-24,87841.0,5,3,6,No
+EMP2121,Operations,PhD,1,Consultant,2019-12-26,96660.0,1,5,5,Yes
+EMP2122,Finance,Bachelor's,1,Analyst,2018-07-06,40767.0,4,7,6,Yes
+EMP2123,IT,High School,1,Analyst,2020-11-07,43895.0,5,7,4,Yes
+EMP2124,Operations,Master's,0,Executive,2022-04-17,92968.0,3,3,2,Yes
+EMP2125,Operations,Bachelor's,1,Associate,2022-07-08,50332.0,1,4,2,Yes
+EMP2126,HR,Master's,0,Analyst,2018-06-27,54621.0,1,7,6,No
+EMP2127,Finance,Master's,1,Analyst,2018-02-05,51334.0,2,8,7,Yes
+EMP2128,Sales,High School,0,Analyst,2016-10-29,58174.0,5,2,8,No
+EMP2129,Sales,Master's,1,Consultant,2022-03-26,90502.0,3,9,2,Yes
+EMP2130,HR,Bachelor's,1,Executive,2022-03-21,86674.0,4,7,2,Yes
+EMP2131,IT,Master's,0,Consultant,2021-12-07,87260.0,2,8,3,Yes
+EMP2132,Sales,PhD,1,Technician,2018-07-05,39730.0,3,6,6,Yes
+EMP2133,Sales,Master's,1,Consultant,2022-05-10,117609.0,5,6,2,Yes
+EMP2134,Marketing,High School,1,Technician,2017-09-23,46696.0,3,9,7,Yes
+EMP2135,Finance,Bachelor's,0,Manager,2020-04-10,141805.0,1,4,4,No
+EMP2136,IT,High School,1,Manager,2015-10-09,134919.0,1,5,9,Yes
+EMP2137,Operations,PhD,0,Technician,2018-05-12,51701.0,2,9,6,No
+EMP2138,Finance,Master's,0,Technician,2020-08-25,47194.0,5,1,4,No
+EMP2139,IT,High School,0,Consultant,2017-07-24,76811.0,5,4,7,No
+EMP2140,Sales,High School,1,Technician,2015-09-11,36841.0,3,7,9,Yes
+EMP2141,Marketing,High School,0,Executive,2018-04-26,93723.0,2,9,6,No
+EMP2142,Finance,High School,0,Manager,2015-11-25,145235.0,5,6,9,No
+EMP2143,Sales,PhD,1,Manager,2022-02-04,146298.0,1,8,3,Yes
+EMP2144,IT,PhD,0,Associate,2022-10-01,37147.0,3,9,2,No
+EMP2145,Finance,Master's,0,Technician,2018-11-21,30615.0,4,4,6,No
+EMP2146,Operations,Master's,1,Analyst,2019-03-21,73715.0,1,1,5,Yes
+EMP2147,Finance,Bachelor's,1,Analyst,2022-12-02,78445.0,2,8,2,Yes
+EMP2148,Sales,PhD,0,Technician,2018-04-07,51035.0,5,2,6,Yes
+EMP2149,Finance,High School,1,Executive,2019-09-13,90634.0,1,1,5,Yes
+EMP2150,Operations,High School,1,Analyst,2021-08-10,42013.0,4,7,3,Yes
+EMP2151,Marketing,Bachelor's,1,Associate,2018-04-16,55081.0,4,9,6,Yes
+EMP2152,Marketing,High School,0,Technician,2016-10-16,46874.0,2,9,8,No
+EMP2153,Sales,Bachelor's,0,Executive,2018-10-17,87755.0,1,3,6,No
+EMP2154,IT,Master's,1,Executive,2017-01-29,58733.0,3,6,8,No
+EMP2155,Sales,PhD,0,Consultant,2022-05-10,59479.0,1,7,2,Yes
+EMP2156,Marketing,Bachelor's,1,Executive,2019-12-04,59825.0,4,9,5,Yes
+EMP2157,HR,High School,1,Analyst,2017-11-29,61304.0,2,2,7,Yes
+EMP2158,HR,Bachelor's,1,Analyst,2016-02-20,75694.0,2,8,8,Yes
+EMP2159,Finance,Master's,1,Technician,2015-09-12,55928.0,3,7,9,Yes
+EMP2160,Operations,High School,1,Technician,2018-03-12,37282.0,2,4,6,Yes
+EMP2161,Finance,Master's,0,Executive,2020-02-20,65635.0,2,2,4,No
+EMP2162,HR,Master's,0,Associate,2022-07-20,55760.0,2,8,2,No
+EMP2163,Marketing,Bachelor's,0,Manager,2022-03-09,79490.0,2,5,2,No
+EMP2164,Finance,Master's,0,Consultant,2017-06-18,71252.0,2,6,7,No
+EMP2165,Sales,High School,1,Manager,2020-08-20,76862.0,4,7,4,Yes
+EMP2166,Operations,Master's,1,Executive,2015-01-26,94927.0,1,1,10,Yes
+EMP2167,Sales,Master's,0,Executive,2016-02-25,54423.0,5,8,8,No
+EMP2168,Operations,Bachelor's,0,Manager,2018-05-29,80450.0,2,4,6,No
+EMP2169,Marketing,Master's,1,Consultant,2020-02-20,106022.0,5,9,4,Yes
+EMP2170,Finance,PhD,1,Manager,2021-12-18,131991.0,5,1,3,Yes
+EMP2171,Operations,Bachelor's,1,Technician,2018-06-14,38159.0,4,2,6,Yes
+EMP2172,Sales,Bachelor's,0,Analyst,2021-04-03,74841.0,2,6,3,Yes
+EMP2173,Finance,High School,1,Associate,2017-10-05,57554.0,5,1,7,No
+EMP2174,Finance,High School,1,Technician,2015-08-07,47085.0,2,4,9,Yes
+EMP2175,Sales,High School,0,Analyst,2019-02-19,71826.0,3,8,5,No
+EMP2176,HR,High School,0,Associate,2020-05-13,41825.0,3,5,4,No
+EMP2177,Operations,PhD,0,Associate,2021-11-13,47454.0,3,9,3,No
+EMP2178,Sales,Bachelor's,1,Associate,2016-10-24,59251.0,5,6,8,Yes
+EMP2179,Marketing,Master's,1,Executive,2022-05-06,70648.0,3,1,2,Yes
+EMP2180,IT,High School,0,Associate,2017-09-16,59530.0,4,6,7,Yes
+EMP2181,Sales,High School,1,Consultant,2015-07-08,97058.0,4,6,9,Yes
+EMP2182,Finance,High School,1,Manager,2015-09-12,144094.0,5,6,9,No
+EMP2183,Finance,Master's,1,Consultant,2015-03-09,54886.0,2,8,9,Yes
+EMP2184,Sales,High School,0,Manager,2016-09-07,107387.0,1,6,8,No
+EMP2185,IT,Master's,0,Technician,2021-07-11,51575.0,2,5,3,Yes
+EMP2186,Sales,Bachelor's,1,Technician,2022-06-11,43956.0,2,2,2,Yes
+EMP2187,IT,Bachelor's,1,Manager,2022-11-08,109643.0,2,4,2,Yes
+EMP2188,IT,Bachelor's,1,Consultant,2017-05-23,60100.0,2,5,7,Yes
+EMP2189,Marketing,PhD,1,Manager,2021-06-05,130356.0,1,4,3,Yes
+EMP2190,Operations,Master's,0,Associate,2019-06-14,42856.0,3,2,5,No
+EMP2191,Finance,High School,0,Executive,2015-12-23,88169.0,2,7,9,No
+EMP2192,Finance,High School,1,Technician,2015-09-13,58804.0,4,2,9,Yes
+EMP2193,IT,High School,1,Executive,2017-10-04,85790.0,5,1,7,No
+EMP2194,Finance,High School,0,Associate,2021-07-28,65988.0,5,5,3,No
+EMP2195,HR,PhD,1,Associate,2019-10-22,45912.0,4,1,5,Yes
+EMP2196,IT,High School,0,Technician,2022-01-15,35738.0,2,1,3,No
+EMP2197,Finance,PhD,1,Technician,2022-09-04,45126.0,1,1,2,Yes
+EMP2198,HR,Master's,0,Associate,2015-10-11,57368.0,3,6,9,No
+EMP2199,Marketing,Bachelor's,1,Analyst,2015-04-09,41770.0,5,9,9,Yes
+EMP2200,Finance,High School,1,Executive,2015-07-16,62305.0,3,1,9,Yes
+EMP2201,HR,Bachelor's,0,Executive,2021-12-04,59969.0,1,5,3,No
+EMP2202,Sales,Master's,0,Analyst,2017-05-27,52404.0,5,9,7,No
+EMP2203,Operations,Master's,1,Consultant,2020-02-12,58989.0,3,9,4,Yes
+EMP2204,Sales,High School,1,Executive,2022-04-16,85983.0,1,1,2,Yes
+EMP2205,HR,Master's,0,Manager,2022-04-19,109462.0,3,8,2,No
+EMP2206,IT,Bachelor's,0,Associate,2018-10-20,54360.0,2,1,6,No
+EMP2207,IT,High School,1,Associate,2021-08-12,55121.0,1,8,3,Yes
+EMP2208,Finance,PhD,1,Analyst,2016-07-23,66287.0,3,1,8,Yes
+EMP2209,Sales,High School,0,Executive,2022-03-22,99904.0,2,5,2,Yes
+EMP2210,IT,Bachelor's,0,Consultant,2017-12-01,111313.0,2,8,7,No
+EMP2211,IT,High School,0,Executive,2016-02-26,84160.0,1,6,8,Yes
+EMP2212,Sales,High School,0,Associate,2022-11-23,41789.0,4,9,2,No
+EMP2213,Marketing,Bachelor's,0,Technician,2018-04-19,57181.0,5,1,6,No
+EMP2214,IT,High School,1,Manager,2016-06-28,84385.0,1,9,8,Yes
+EMP2215,Operations,High School,1,Analyst,2015-03-12,57061.0,2,1,9,Yes
+EMP2216,HR,Bachelor's,0,Technician,2018-05-08,30105.0,2,3,6,No
+EMP2217,Finance,Master's,1,Consultant,2017-02-06,94247.0,1,1,8,Yes
+EMP2218,IT,Bachelor's,1,Technician,2021-06-12,51137.0,4,3,3,Yes
+EMP2219,Operations,High School,0,Technician,2019-09-03,31946.0,5,2,5,No
+EMP2220,Operations,PhD,1,Consultant,2021-08-21,55544.0,3,2,3,Yes
+EMP2221,IT,PhD,1,Technician,2016-10-16,47479.0,1,9,8,Yes
+EMP2222,Marketing,Bachelor's,1,Analyst,2022-06-18,53275.0,5,8,2,Yes
+EMP2223,HR,PhD,0,Associate,2021-09-12,69550.0,5,1,3,No
+EMP2224,Finance,High School,0,Executive,2019-12-02,69641.0,2,4,5,No
+EMP2225,IT,High School,1,Technician,2015-08-09,36213.0,3,1,9,Yes
+EMP2226,Finance,Bachelor's,1,Analyst,2015-07-01,54485.0,1,1,9,Yes
+EMP2227,Sales,High School,1,Executive,2015-11-03,65605.0,2,4,9,Yes
+EMP2228,Operations,Master's,1,Executive,2022-01-13,87637.0,2,2,3,Yes
+EMP2229,Operations,High School,1,Technician,2018-11-20,47945.0,4,3,6,Yes
+EMP2230,IT,Bachelor's,1,Analyst,2017-10-10,60390.0,5,9,7,Yes
+EMP2231,IT,Master's,0,Associate,2020-08-13,44867.0,1,2,4,No
+EMP2232,Sales,Master's,1,Technician,2022-12-20,55698.0,1,4,2,Yes
+EMP2233,Marketing,PhD,1,Consultant,2017-04-27,53981.0,1,1,7,Yes
+EMP2234,IT,High School,0,Executive,2017-03-14,59493.0,2,2,7,No
+EMP2235,Operations,Bachelor's,1,Technician,2015-08-03,35682.0,4,5,9,Yes
+EMP2236,Finance,PhD,1,Executive,2018-12-14,55782.0,3,1,6,Yes
+EMP2237,HR,PhD,1,Analyst,2015-04-11,69799.0,2,7,9,Yes
+EMP2238,Finance,High School,1,Manager,2016-07-26,86984.0,3,4,8,Yes
+EMP2239,Marketing,High School,0,Technician,2018-08-25,57276.0,4,6,6,No
+EMP2240,HR,Bachelor's,1,Associate,2016-10-19,57760.0,5,8,8,Yes
+EMP2241,Finance,PhD,0,Technician,2019-03-14,55993.0,1,6,5,No
+EMP2242,Finance,Bachelor's,1,Executive,2019-07-15,51524.0,3,2,5,Yes
+EMP2243,Sales,PhD,1,Analyst,2015-08-14,66120.0,2,1,9,Yes
+EMP2244,Marketing,PhD,0,Consultant,2015-04-15,115614.0,3,8,9,No
+EMP2245,Operations,PhD,1,Associate,2020-06-20,60473.0,5,8,4,Yes
+EMP2246,Sales,High School,0,Analyst,2017-02-10,79832.0,1,9,7,No
+EMP2247,HR,PhD,0,Technician,2016-03-04,43068.0,3,6,8,No
+EMP2248,Operations,PhD,0,Consultant,2016-03-09,63362.0,5,1,8,No
+EMP2249,Sales,PhD,1,Analyst,2018-05-15,41209.0,2,9,6,Yes
+EMP2250,Marketing,Master's,1,Manager,2022-06-22,107921.0,4,3,2,Yes
+EMP2251,IT,High School,1,Associate,2022-03-20,39898.0,2,6,2,Yes
+EMP2252,IT,Master's,1,Executive,2017-05-15,68562.0,1,9,7,Yes
+EMP2253,HR,High School,0,Analyst,2022-08-25,50871.0,2,3,2,No
+EMP2254,IT,Bachelor's,1,Analyst,2022-12-21,47610.0,2,5,2,Yes
+EMP2255,Sales,Master's,1,Manager,2021-08-12,85791.0,2,5,3,Yes
+EMP2256,HR,Bachelor's,0,Technician,2015-09-08,55279.0,2,7,9,No
+EMP2257,Operations,PhD,0,Associate,2022-12-16,37370.0,1,4,2,No
+EMP2258,Marketing,Bachelor's,1,Associate,2017-05-05,54665.0,5,4,7,Yes
+EMP2259,HR,Bachelor's,0,Executive,2018-04-08,54710.0,3,7,6,No
+EMP2260,Operations,Bachelor's,0,Analyst,2016-07-14,40328.0,4,9,8,No
+EMP2261,HR,Bachelor's,0,Consultant,2019-01-09,96451.0,3,4,6,No
+EMP2262,Finance,High School,0,Analyst,2021-05-30,78347.0,3,4,3,Yes
+EMP2263,Finance,Master's,0,Executive,2017-07-07,70612.0,4,6,7,No
+EMP2264,HR,High School,1,Analyst,2018-03-19,46794.0,1,6,6,Yes
+EMP2265,IT,High School,1,Manager,2016-03-08,102888.0,4,7,8,Yes
+EMP2266,Finance,High School,1,Analyst,2020-10-07,46749.0,1,1,4,Yes
+EMP2267,Marketing,Bachelor's,1,Analyst,2017-08-26,60608.0,3,3,7,Yes
+EMP2268,Operations,High School,1,Consultant,2017-04-15,119211.0,1,9,7,Yes
+EMP2269,Sales,Master's,1,Manager,2021-02-24,126017.0,5,6,3,Yes
+EMP2270,Finance,High School,1,Manager,2021-03-12,127676.0,4,6,3,Yes
+EMP2271,HR,PhD,0,Analyst,2017-06-16,51560.0,5,5,7,No
+EMP2272,IT,Bachelor's,1,Associate,2016-04-16,67463.0,3,3,8,Yes
+EMP2273,Sales,PhD,1,Consultant,2015-09-04,81663.0,4,5,9,Yes
+EMP2274,Operations,Master's,1,Analyst,2021-08-26,43170.0,3,1,3,Yes
+EMP2275,Operations,Master's,0,Analyst,2017-09-17,73123.0,5,3,7,No
+EMP2276,Finance,Master's,1,Executive,2017-07-15,78810.0,3,4,7,Yes
+EMP2277,Operations,Master's,1,Executive,2018-04-06,59718.0,4,5,6,Yes
+EMP2278,Operations,High School,0,Associate,2022-02-20,35028.0,4,9,2,No
+EMP2279,IT,Bachelor's,1,Consultant,2017-12-10,112370.0,3,4,7,Yes
+EMP2280,IT,Master's,1,Technician,2020-01-09,44831.0,4,3,5,No
+EMP2281,IT,PhD,0,Executive,2016-11-19,67397.0,4,1,8,No
+EMP2282,HR,Master's,1,Technician,2021-08-24,40894.0,3,6,3,Yes
+EMP2283,Operations,Bachelor's,0,Manager,2021-11-26,115406.0,5,7,3,No
+EMP2284,Operations,PhD,1,Executive,2022-07-07,97657.0,4,8,2,Yes
+EMP2285,Operations,PhD,1,Executive,2019-01-24,52024.0,4,1,6,Yes
+EMP2286,Marketing,PhD,1,Consultant,2017-08-17,63503.0,4,4,7,Yes
+EMP2287,IT,High School,0,Associate,2016-04-22,45303.0,4,5,8,No
+EMP2288,Sales,Master's,0,Technician,2016-12-07,47138.0,3,2,8,No
+EMP2289,Finance,High School,0,Executive,2022-12-11,75345.0,5,1,2,No
+EMP2290,Sales,PhD,1,Executive,2018-02-11,79505.0,5,8,6,No
+EMP2291,HR,High School,1,Consultant,2017-01-23,109557.0,1,6,8,Yes
+EMP2292,HR,High School,0,Consultant,2021-12-25,115054.0,4,5,3,No
+EMP2293,Operations,High School,0,Associate,2019-07-18,36906.0,4,9,5,No
+EMP2294,Sales,Master's,1,Technician,2022-11-04,37399.0,1,2,2,Yes
+EMP2295,Operations,PhD,1,Manager,2016-08-10,77961.0,5,8,8,Yes
+EMP2296,Marketing,PhD,1,Associate,2018-08-27,61140.0,2,9,6,Yes
+EMP2297,HR,Master's,1,Manager,2019-02-01,128701.0,2,1,6,Yes
+EMP2298,HR,High School,0,Analyst,2020-01-22,52031.0,5,7,5,No
+EMP2299,Sales,High School,1,Executive,2022-07-18,65128.0,4,8,2,Yes
+EMP2300,HR,Bachelor's,1,Technician,2015-07-26,45663.0,2,3,9,Yes
+EMP2301,Marketing,Bachelor's,1,Associate,2021-01-07,69228.0,3,4,4,Yes
+EMP2302,Marketing,Bachelor's,1,Executive,2022-06-08,65682.0,3,3,2,Yes
+EMP2303,Marketing,Master's,1,Technician,2022-01-19,54053.0,1,7,3,Yes
+EMP2304,Finance,PhD,1,Technician,2015-06-14,45193.0,5,9,9,No
+EMP2305,Marketing,Bachelor's,1,Technician,2020-06-21,58561.0,5,3,4,Yes
+EMP2306,Marketing,PhD,0,Executive,2020-09-15,93813.0,2,6,4,No
+EMP2307,Finance,PhD,0,Associate,2015-11-29,42766.0,4,8,9,No
+EMP2308,Operations,PhD,0,Consultant,2016-02-07,79504.0,5,6,9,No
+EMP2309,IT,Master's,1,Executive,2016-02-18,87146.0,2,2,8,Yes
+EMP2310,HR,Master's,0,Technician,2015-02-14,37529.0,2,7,9,No
+EMP2311,Marketing,Master's,1,Associate,2021-03-03,55858.0,5,2,3,Yes
+EMP2312,HR,Master's,1,Analyst,2015-03-03,43071.0,2,2,9,No
+EMP2313,Sales,Bachelor's,1,Manager,2021-10-03,86939.0,1,2,3,Yes
+EMP2314,HR,High School,1,Technician,2017-05-17,54931.0,1,1,7,Yes
+EMP2315,Operations,High School,0,Analyst,2019-01-31,41040.0,5,1,6,No
+EMP2316,Finance,High School,1,Consultant,2022-11-07,118222.0,4,7,2,No
+EMP2317,HR,Bachelor's,1,Technician,2015-01-19,42666.0,1,5,10,Yes
+EMP2318,HR,High School,0,Analyst,2015-12-31,75321.0,1,3,9,No
+EMP2319,HR,Bachelor's,0,Technician,2021-10-11,31779.0,5,1,3,No
+EMP2320,IT,Bachelor's,0,Executive,2018-02-14,63186.0,3,6,6,No
+EMP2321,IT,Bachelor's,1,Associate,2016-08-02,51459.0,2,1,8,No
+EMP2322,Sales,High School,0,Analyst,2016-06-29,60710.0,1,9,8,No
+EMP2323,Finance,PhD,1,Associate,2019-09-26,57219.0,3,2,5,No
+EMP2324,HR,High School,1,Executive,2021-06-30,55057.0,4,1,3,No
+EMP2325,HR,High School,0,Executive,2015-02-24,68733.0,3,7,9,No
+EMP2326,HR,Master's,0,Associate,2017-02-16,54157.0,5,6,7,No
+EMP2327,HR,Bachelor's,0,Analyst,2015-02-11,75030.0,4,6,9,No
+EMP2328,IT,PhD,1,Associate,2018-08-13,54613.0,4,5,6,Yes
+EMP2329,Operations,Master's,1,Associate,2015-08-19,52492.0,3,4,9,Yes
+EMP2330,Operations,PhD,1,Manager,2016-03-28,75188.0,5,4,8,Yes
+EMP2331,Sales,PhD,1,Analyst,2021-09-07,69680.0,1,3,3,Yes
+EMP2332,Marketing,Bachelor's,1,Manager,2019-03-26,130119.0,3,8,5,Yes
+EMP2333,Finance,High School,1,Technician,2018-10-13,33998.0,1,7,6,Yes
+EMP2334,Operations,Bachelor's,0,Associate,2019-01-07,43864.0,3,9,6,Yes
+EMP2335,HR,Bachelor's,1,Technician,2018-02-25,52950.0,1,1,6,Yes
+EMP2336,Operations,Master's,0,Analyst,2022-07-01,76445.0,3,7,2,Yes
+EMP2337,Sales,Bachelor's,0,Associate,2021-09-05,40796.0,4,4,3,No
+EMP2338,Marketing,High School,0,Technician,2018-05-01,44450.0,2,7,6,No
+EMP2339,Operations,PhD,0,Consultant,2022-04-05,89131.0,4,1,2,No
+EMP2340,Sales,Bachelor's,0,Executive,2017-05-30,58123.0,1,5,7,No
+EMP2341,IT,PhD,1,Associate,2015-03-26,43222.0,5,3,9,No
+EMP2342,Marketing,Bachelor's,1,Executive,2017-11-19,74074.0,4,5,7,Yes
+EMP2343,Sales,PhD,1,Manager,2015-02-18,99825.0,2,4,9,Yes
+EMP2344,Operations,Bachelor's,1,Technician,2018-03-14,34071.0,1,2,6,Yes
+EMP2345,IT,Master's,0,Manager,2015-03-10,138322.0,4,4,9,No
+EMP2346,Sales,PhD,0,Associate,2022-07-07,68638.0,3,3,2,No
+EMP2347,Sales,Bachelor's,0,Executive,2021-12-01,86964.0,5,1,3,Yes
+EMP2348,Operations,Bachelor's,1,Executive,2022-11-07,94564.0,1,8,2,Yes
+EMP2349,Marketing,Master's,1,Technician,2019-08-29,55988.0,4,5,5,Yes
+EMP2350,IT,Master's,1,Associate,2019-05-18,68708.0,1,4,5,Yes
+EMP2351,HR,Master's,1,Consultant,2021-01-03,73806.0,3,5,4,Yes
+EMP2352,Finance,PhD,0,Consultant,2020-02-13,86901.0,2,4,4,Yes
+EMP2353,Marketing,PhD,0,Technician,2017-10-12,47043.0,4,3,7,No
+EMP2354,IT,Master's,1,Associate,2022-04-10,45225.0,1,5,2,Yes
+EMP2355,Sales,High School,1,Technician,2016-03-21,39752.0,1,4,8,Yes
+EMP2356,IT,High School,0,Associate,2021-03-18,38457.0,1,1,3,No
+EMP2357,Finance,Bachelor's,0,Manager,2018-11-02,112616.0,2,3,6,No
+EMP2358,Operations,High School,0,Technician,2020-11-12,49359.0,1,8,4,No
+EMP2359,Finance,Bachelor's,0,Associate,2015-09-19,44241.0,5,7,9,No
+EMP2360,HR,PhD,1,Consultant,2020-01-23,50453.0,5,2,5,Yes
+EMP2361,HR,PhD,0,Associate,2017-06-15,44896.0,1,1,7,No
+EMP2362,Finance,High School,0,Associate,2017-12-30,56826.0,5,3,7,No
+EMP2363,Marketing,PhD,0,Technician,2021-03-16,40976.0,4,5,3,No
+EMP2364,Marketing,Master's,0,Manager,2019-04-06,140404.0,5,1,5,No
+EMP2365,Sales,Master's,1,Manager,2015-04-02,147707.0,1,3,9,Yes
+EMP2366,HR,High School,1,Manager,2015-05-07,103688.0,3,3,9,Yes
+EMP2367,Sales,High School,1,Manager,2015-03-21,72017.0,4,5,9,Yes
+EMP2368,HR,Bachelor's,1,Analyst,2020-01-22,47957.0,2,3,5,Yes
+EMP2369,Finance,PhD,1,Technician,2017-09-09,46230.0,1,9,7,Yes
+EMP2370,Marketing,Bachelor's,1,Executive,2017-07-04,92188.0,2,1,7,Yes
+EMP2371,Marketing,Bachelor's,0,Technician,2021-12-08,34792.0,3,4,3,No
+EMP2372,Finance,Master's,0,Analyst,2016-11-24,53237.0,2,4,8,No
+EMP2373,Sales,Master's,0,Manager,2015-01-25,121586.0,1,1,10,No
+EMP2374,Sales,Master's,0,Analyst,2015-06-05,56251.0,1,2,9,Yes
+EMP2375,IT,Master's,1,Consultant,2022-05-03,69252.0,3,1,2,Yes
+EMP2376,HR,Bachelor's,0,Consultant,2019-12-18,60707.0,1,6,5,No
+EMP2377,Sales,Master's,1,Technician,2019-04-03,31438.0,3,3,5,No
+EMP2378,Finance,PhD,0,Technician,2020-05-20,58740.0,3,7,4,No
+EMP2379,Sales,Master's,0,Executive,2019-09-30,53543.0,1,5,5,No
+EMP2380,Marketing,Master's,0,Executive,2017-12-16,94135.0,5,9,7,No
+EMP2381,HR,Master's,1,Consultant,2019-06-17,85031.0,3,7,5,Yes
+EMP2382,Operations,High School,0,Manager,2015-01-19,112929.0,1,4,10,No
+EMP2383,IT,PhD,1,Analyst,2018-11-08,40211.0,5,5,6,Yes
+EMP2384,HR,PhD,1,Executive,2018-05-01,96577.0,3,5,6,No
+EMP2385,Marketing,Bachelor's,0,Associate,2021-04-03,35331.0,5,5,3,No
+EMP2386,Marketing,Bachelor's,1,Executive,2018-11-11,73244.0,4,9,6,Yes
+EMP2387,Marketing,Master's,1,Manager,2015-10-04,127196.0,4,3,9,Yes
+EMP2388,Marketing,High School,0,Manager,2017-01-14,143705.0,5,6,8,No
+EMP2389,Finance,Bachelor's,0,Technician,2016-07-05,55126.0,3,8,8,No
+EMP2390,IT,Bachelor's,0,Analyst,2018-03-22,62104.0,1,9,6,No
+EMP2391,Operations,Master's,0,Manager,2016-09-30,84591.0,2,7,8,Yes
+EMP2392,Marketing,Master's,0,Executive,2015-08-25,81711.0,1,3,9,No
+EMP2393,Marketing,Bachelor's,0,Executive,2017-09-24,98893.0,2,1,7,No
+EMP2394,Sales,Bachelor's,1,Consultant,2020-10-03,50727.0,2,4,4,No
+EMP2395,IT,PhD,0,Manager,2020-06-26,91359.0,3,6,4,No
+EMP2396,HR,High School,0,Associate,2018-12-30,57998.0,5,3,6,No
+EMP2397,IT,PhD,1,Technician,2022-06-24,40929.0,1,1,2,Yes
+EMP2398,IT,Bachelor's,0,Analyst,2020-11-26,54842.0,5,6,4,No
+EMP2399,Operations,PhD,1,Associate,2018-04-22,58519.0,4,1,6,Yes
+EMP2400,IT,PhD,0,Technician,2018-10-23,47393.0,3,9,6,No
+EMP2401,Operations,Bachelor's,0,Executive,2020-06-29,84318.0,3,1,4,No
+EMP2402,Marketing,Master's,1,Associate,2018-05-06,43995.0,4,6,6,Yes
+EMP2403,Marketing,Bachelor's,0,Technician,2018-10-26,58656.0,1,1,6,No
+EMP2404,Finance,Master's,1,Executive,2016-01-08,97934.0,4,7,9,Yes
+EMP2405,Operations,Bachelor's,0,Executive,2019-03-01,90260.0,1,3,5,No
+EMP2406,Operations,Bachelor's,0,Executive,2021-02-26,95269.0,2,6,3,Yes
+EMP2407,HR,Bachelor's,1,Executive,2017-04-28,65567.0,3,7,7,Yes
+EMP2408,Sales,High School,0,Executive,2021-12-31,78840.0,1,1,3,Yes
+EMP2409,IT,Master's,0,Consultant,2018-09-07,63265.0,5,1,6,No
+EMP2410,HR,High School,1,Associate,2021-05-11,40424.0,5,5,3,No
+EMP2411,Operations,Bachelor's,0,Technician,2021-03-08,50625.0,3,6,3,No
+EMP2412,HR,PhD,1,Consultant,2016-05-18,79187.0,4,9,8,Yes
+EMP2413,Finance,High School,0,Consultant,2016-12-03,85929.0,4,1,8,No
+EMP2414,Sales,Master's,1,Manager,2020-09-20,131892.0,1,4,4,Yes
+EMP2415,Operations,Bachelor's,0,Manager,2015-11-11,90539.0,4,8,9,Yes
+EMP2416,Operations,High School,1,Manager,2022-10-06,126630.0,3,9,2,Yes
+EMP2417,IT,PhD,1,Analyst,2021-07-04,65103.0,1,3,3,Yes
+EMP2418,Sales,High School,0,Manager,2017-11-06,79215.0,2,2,7,No
+EMP2419,Finance,Master's,0,Technician,2015-10-10,36617.0,4,4,9,No
+EMP2420,Marketing,High School,1,Consultant,2015-09-15,75008.0,4,2,9,Yes
+EMP2421,HR,PhD,0,Technician,2016-07-28,46160.0,1,1,8,No
+EMP2422,IT,PhD,1,Associate,2016-07-27,52560.0,5,3,8,Yes
+EMP2423,Operations,Master's,0,Manager,2022-04-13,94976.0,4,7,2,No
+EMP2424,Marketing,PhD,0,Analyst,2017-11-08,67626.0,3,1,7,No
+EMP2425,Finance,Bachelor's,1,Associate,2019-04-02,67720.0,4,2,5,Yes
+EMP2426,Sales,PhD,1,Analyst,2022-11-24,75001.0,2,1,2,Yes
+EMP2427,HR,Bachelor's,0,Associate,2016-02-27,39700.0,4,8,8,No
+EMP2428,IT,High School,0,Consultant,2019-01-29,113645.0,5,5,6,No
+EMP2429,Operations,Bachelor's,0,Technician,2018-10-28,52290.0,4,8,6,No
+EMP2430,Operations,Bachelor's,0,Executive,2017-01-27,57860.0,1,3,8,No
+EMP2431,Marketing,High School,0,Technician,2022-09-11,37526.0,4,7,2,Yes
+EMP2432,Marketing,PhD,1,Manager,2018-01-09,109500.0,5,8,7,Yes
+EMP2433,HR,Bachelor's,0,Executive,2019-04-24,52513.0,1,6,5,No
+EMP2434,Sales,PhD,0,Analyst,2021-10-07,47830.0,3,7,3,No
+EMP2435,Finance,High School,1,Consultant,2016-03-04,109117.0,1,2,8,Yes
+EMP2436,Sales,Master's,1,Consultant,2020-07-14,106096.0,2,8,4,Yes
+EMP2437,Sales,PhD,1,Analyst,2015-07-23,47910.0,1,5,9,Yes
+EMP2438,Sales,PhD,0,Manager,2021-02-21,141185.0,3,7,3,Yes
+EMP2439,HR,Master's,1,Analyst,2022-08-07,49120.0,4,1,2,Yes
+EMP2440,HR,Master's,1,Associate,2021-05-21,36951.0,1,5,3,No
+EMP2441,Finance,High School,1,Manager,2020-06-15,135212.0,1,1,4,Yes
+EMP2442,Sales,PhD,1,Executive,2021-02-21,60165.0,1,8,3,Yes
+EMP2443,HR,PhD,0,Analyst,2015-11-03,54352.0,1,4,9,No
+EMP2444,Finance,High School,0,Manager,2019-08-15,145282.0,3,4,5,No
+EMP2445,Operations,PhD,0,Executive,2015-01-14,93738.0,5,2,10,No
+EMP2446,Finance,Bachelor's,1,Analyst,2020-02-04,68997.0,5,5,5,Yes
+EMP2447,Sales,Bachelor's,1,Consultant,2020-05-15,91954.0,1,1,4,Yes
+EMP2448,IT,Bachelor's,1,Analyst,2017-12-16,64183.0,3,9,7,Yes
+EMP2449,Sales,PhD,1,Technician,2016-12-23,38804.0,3,5,8,Yes
+EMP2450,IT,Bachelor's,1,Analyst,2017-02-18,67169.0,1,6,7,Yes
+EMP2451,Finance,Bachelor's,1,Technician,2018-05-18,30595.0,2,2,6,No
+EMP2452,Operations,High School,0,Executive,2016-06-12,79592.0,1,1,8,No
+EMP2453,Operations,High School,0,Analyst,2017-03-08,60823.0,2,4,7,No
+EMP2454,HR,Master's,1,Executive,2015-12-10,55972.0,1,7,9,Yes
+EMP2455,Operations,Master's,0,Executive,2018-07-26,65882.0,2,6,6,No
+EMP2456,Marketing,Master's,1,Manager,2015-07-28,136394.0,2,1,9,Yes
+EMP2457,Finance,Master's,1,Executive,2016-10-02,55519.0,1,1,8,Yes
+EMP2458,HR,High School,0,Executive,2018-08-04,73769.0,2,8,6,No
+EMP2459,Operations,High School,1,Analyst,2021-04-18,65020.0,4,4,3,Yes
+EMP2460,Finance,High School,0,Analyst,2021-05-07,77085.0,5,5,3,No
+EMP2461,Sales,Bachelor's,1,Consultant,2020-05-01,94912.0,3,7,4,Yes
+EMP2462,Operations,Bachelor's,1,Manager,2017-07-08,82879.0,2,8,7,Yes
+EMP2463,IT,Master's,0,Executive,2019-09-20,83798.0,2,7,5,No
+EMP2464,Finance,Bachelor's,1,Manager,2020-08-06,116073.0,3,2,4,Yes
+EMP2465,HR,PhD,1,Technician,2016-02-23,40255.0,2,4,8,No
+EMP2466,Sales,High School,1,Executive,2019-10-16,51447.0,3,1,5,Yes
+EMP2467,Marketing,Master's,0,Manager,2022-10-13,113005.0,1,9,2,No
+EMP2468,Sales,Master's,1,Consultant,2018-10-20,52850.0,4,3,6,Yes
+EMP2469,Operations,PhD,1,Consultant,2018-01-04,78400.0,4,3,7,Yes
+EMP2470,IT,Bachelor's,1,Executive,2022-08-04,61953.0,5,9,2,Yes
+EMP2471,Sales,Master's,0,Technician,2021-10-16,38106.0,2,3,3,No
+EMP2472,Marketing,Bachelor's,0,Consultant,2020-11-26,73535.0,5,8,4,Yes
+EMP2473,HR,Bachelor's,0,Consultant,2022-05-12,54055.0,1,2,2,No
+EMP2474,Finance,PhD,0,Technician,2019-03-26,35402.0,4,3,5,No
+EMP2475,IT,Master's,0,Manager,2017-12-06,98251.0,1,2,7,Yes
+EMP2476,Marketing,Bachelor's,1,Consultant,2021-08-23,54532.0,1,1,3,Yes
+EMP2477,Operations,Bachelor's,0,Analyst,2020-01-25,44924.0,2,2,5,Yes
+EMP2478,Operations,PhD,0,Associate,2018-01-24,47546.0,1,8,7,No
+EMP2479,Operations,PhD,1,Associate,2017-08-15,61579.0,4,9,7,Yes
+EMP2480,IT,Bachelor's,0,Consultant,2015-04-13,60702.0,5,2,9,No
+EMP2481,Sales,PhD,1,Manager,2022-12-11,85385.0,4,7,2,Yes
+EMP2482,IT,Bachelor's,0,Manager,2018-03-15,79336.0,2,5,6,No
+EMP2483,Operations,Master's,1,Executive,2020-03-18,81225.0,4,3,4,No
+EMP2484,Marketing,High School,1,Analyst,2019-10-22,76021.0,3,9,5,Yes
+EMP2485,Finance,PhD,0,Manager,2022-01-21,73782.0,5,6,3,No
+EMP2486,Finance,High School,0,Technician,2016-11-09,53341.0,3,1,8,No
+EMP2487,IT,Bachelor's,1,Analyst,2020-05-22,64094.0,3,5,4,Yes
+EMP2488,Operations,Bachelor's,1,Associate,2017-09-15,58866.0,2,7,7,Yes
+EMP2489,HR,Bachelor's,1,Analyst,2018-01-10,59049.0,1,4,7,Yes
+EMP2490,IT,High School,1,Technician,2021-10-11,39951.0,3,8,3,Yes
+EMP2491,Operations,Bachelor's,1,Consultant,2019-05-27,99037.0,4,5,5,Yes
+EMP2492,Sales,PhD,1,Technician,2022-11-09,44567.0,1,9,2,Yes
+EMP2493,Finance,Master's,1,Technician,2019-02-11,41683.0,4,9,5,Yes
+EMP2494,Finance,Master's,0,Consultant,2019-11-25,53513.0,4,9,5,Yes
+EMP2495,Finance,PhD,1,Consultant,2018-03-31,63335.0,1,1,6,Yes
+EMP2496,HR,Master's,0,Consultant,2017-07-20,94140.0,1,2,7,No
+EMP2497,Operations,High School,0,Consultant,2018-11-26,84840.0,4,3,6,Yes
+EMP2498,Operations,Bachelor's,1,Consultant,2017-11-27,81007.0,2,4,7,Yes
+EMP2499,Operations,Bachelor's,1,Technician,2020-06-01,54179.0,5,9,4,Yes

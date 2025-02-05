@@ -1,0 +1,501 @@
+Employee ID,Department,Education Level,Attrition,Job Role,Joining Date,Monthly Salary,Performance Rating,Years at Company
+EMP2000,Finance,PhD,No,Manager,3/26/2019 0:00,143169 ,1,2
+EMP2001,Operations,Master's,Yes,Analyst,4/13/2016 0:00,77777 ,1,6
+EMP2002,Finance,Bachelor's,No,Manager,3/9/2021 0:00,128901 ,1,7
+EMP2003,Marketing,High School,Yes,Associate,2/9/2018 0:00,69881 ,4,1
+EMP2004,Finance,High School,No,Analyst,10/28/2017 0:00,41044 ,5,6
+EMP2005,HR,Master's,Yes,Analyst,10/22/2022 0:00,75199 ,3,8
+EMP2006,Sales,Master's,No,Executive,11/29/2021 0:00,74363 ,4,5
+EMP2007,IT,Bachelor's,No,Technician,5/23/2017 0:00,43926 ,4,7
+EMP2008,Sales,PhD,No,Associate,4/4/2016 0:00,36582 ,5,6
+EMP2009,Operations,Bachelor's,No,Consultant,4/19/2021 0:00,116844 ,4,4
+EMP2010,Finance,High School,Yes,Associate,3/30/2019 0:00,56301 ,1,7
+EMP2011,Operations,PhD,Yes,Consultant,1/21/2017 0:00,51620 ,1,9
+EMP2012,IT,PhD,Yes,Consultant,1/1/2019 0:00,112224 ,2,7
+EMP2013,Operations,PhD,No,Manager,11/13/2019 0:00,126655 ,4,5
+EMP2014,Marketing,Bachelor's,No,Consultant,5/3/2017 0:00,87534 ,2,7
+EMP2015,Sales,High School,No,Consultant,4/2/2021 0:00,89390 ,3,3
+EMP2016,IT,Master's,No,Executive,8/22/2018 0:00,56093 ,1,2
+EMP2017,IT,Bachelor's,No,Analyst,4/22/2016 0:00,62259 ,3,5
+EMP2018,IT,Master's,No,Associate,6/19/2022 0:00,55655 ,5,4
+EMP2019,HR,PhD,Yes,Associate,3/13/2021 0:00,68005 ,1,5
+EMP2020,Sales,PhD,Yes,Consultant,12/12/2022 0:00,81629 ,3,8
+EMP2021,Operations,Bachelor's,Yes,Technician,5/15/2015 0:00,53610 ,5,4
+EMP2022,IT,High School,Yes,Associate,2/26/2018 0:00,56602 ,3,9
+EMP2023,Sales,PhD,Yes,Consultant,2/14/2016 0:00,61110 ,5,7
+EMP2024,IT,Master's,Yes,Manager,12/16/2018 0:00,76073 ,5,7
+EMP2025,Marketing,Master's,Yes,Manager,8/10/2018 0:00,80195 ,1,8
+EMP2026,Marketing,Bachelor's,Yes,Manager,6/23/2018 0:00,71537 ,2,6
+EMP2027,Marketing,Master's,No,Consultant,4/29/2019 0:00,67138 ,5,8
+EMP2028,Finance,High School,No,Executive,3/27/2015 0:00,94328 ,5,3
+EMP2029,IT,PhD,No,Technician,2/16/2022 0:00,56834 ,1,1
+EMP2030,Finance,Master's,No,Consultant,2/9/2020 0:00,96202 ,2,6
+EMP2031,Sales,Master's,No,Executive,1/9/2019 0:00,90164 ,4,1
+EMP2032,Finance,PhD,No,Executive,1/13/2016 0:00,74207 ,4,9
+EMP2033,Sales,Bachelor's,No,Associate,8/8/2019 0:00,55619 ,2,2
+EMP2034,Sales,Master's,Yes,Consultant,12/10/2017 0:00,99692 ,3,2
+EMP2035,Sales,Bachelor's,Yes,Consultant,8/30/2015 0:00,74845 ,1,7
+EMP2036,Operations,Bachelor's,No,Executive,7/8/2017 0:00,74310 ,2,2
+EMP2037,Finance,Master's,Yes,Executive,5/6/2019 0:00,87899 ,4,8
+EMP2038,Operations,High School,Yes,Executive,5/2/2021 0:00,80562 ,5,6
+EMP2039,IT,Bachelor's,Yes,Associate,7/22/2022 0:00,63036 ,4,7
+EMP2040,Finance,Master's,Yes,Consultant,6/25/2018 0:00,110752 ,5,7
+EMP2041,IT,Bachelor's,Yes,Executive,3/11/2015 0:00,58697 ,1,6
+EMP2042,IT,PhD,No,Manager,10/5/2020 0:00,138681 ,5,9
+EMP2043,Sales,High School,Yes,Consultant,11/6/2018 0:00,77818 ,2,9
+EMP2044,Finance,High School,No,Associate,9/17/2020 0:00,65544 ,5,7
+EMP2045,IT,PhD,No,Manager,6/30/2020 0:00,132532 ,3,9
+EMP2046,Marketing,PhD,No,Analyst,3/11/2017 0:00,53100 ,2,3
+EMP2047,IT,Bachelor's,Yes,Consultant,11/7/2017 0:00,107705 ,1,3
+EMP2048,Marketing,PhD,No,Analyst,8/11/2022 0:00,60104 ,2,1
+EMP2049,Finance,High School,No,Executive,4/4/2017 0:00,54067 ,3,5
+EMP2050,Operations,PhD,No,Associate,1/25/2017 0:00,65728 ,1,4
+EMP2051,Finance,Master's,No,Executive,7/27/2021 0:00,82317 ,4,2
+EMP2052,Operations,Master's,Yes,Associate,6/18/2020 0:00,66416 ,3,9
+EMP2053,Operations,Bachelor's,No,Technician,1/14/2020 0:00,39244 ,1,3
+EMP2054,Finance,High School,No,Executive,8/14/2018 0:00,90049 ,5,8
+EMP2055,IT,Master's,No,Analyst,5/19/2021 0:00,42509 ,2,6
+EMP2056,HR,PhD,No,Associate,5/29/2019 0:00,56400 ,1,5
+EMP2057,IT,Master's,Yes,Executive,4/20/2015 0:00,98270 ,2,1
+EMP2058,IT,Master's,No,Consultant,10/13/2017 0:00,99833 ,5,4
+EMP2059,Sales,Bachelor's,No,Associate,5/15/2020 0:00,49670 ,1,3
+EMP2060,Sales,PhD,No,Associate,2/4/2022 0:00,38932 ,4,1
+EMP2061,IT,PhD,No,Executive,11/5/2019 0:00,97363 ,3,5
+EMP2062,Marketing,PhD,No,Technician,1/25/2015 0:00,56705 ,1,6
+EMP2063,Operations,Bachelor's,No,Executive,4/22/2017 0:00,95809 ,5,2
+EMP2064,Sales,PhD,Yes,Analyst,10/9/2022 0:00,78328 ,1,3
+EMP2065,IT,PhD,No,Analyst,1/7/2017 0:00,76784 ,2,6
+EMP2066,HR,Master's,Yes,Associate,10/5/2020 0:00,58723 ,1,4
+EMP2067,Marketing,Master's,Yes,Associate,6/29/2015 0:00,35719 ,4,9
+EMP2068,Finance,PhD,No,Executive,8/20/2015 0:00,50074 ,1,5
+EMP2069,IT,High School,Yes,Analyst,4/1/2020 0:00,66498 ,3,4
+EMP2070,IT,High School,No,Analyst,12/9/2015 0:00,71345 ,1,2
+EMP2071,Operations,PhD,Yes,Technician,4/21/2016 0:00,50541 ,2,6
+EMP2072,Marketing,High School,No,Consultant,12/28/2019 0:00,95929 ,1,2
+EMP2073,Sales,Bachelor's,Yes,Technician,3/8/2022 0:00,54895 ,4,7
+EMP2074,Sales,Master's,Yes,Manager,3/30/2016 0:00,96028 ,5,3
+EMP2075,Sales,Bachelor's,No,Technician,6/9/2018 0:00,59545 ,1,9
+EMP2076,Finance,Master's,Yes,Executive,10/16/2015 0:00,64033 ,1,5
+EMP2077,Marketing,High School,Yes,Consultant,5/21/2018 0:00,81673 ,3,8
+EMP2078,Marketing,High School,Yes,Executive,4/24/2021 0:00,80974 ,4,6
+EMP2079,Sales,PhD,Yes,Manager,6/13/2016 0:00,128899 ,5,8
+EMP2080,Sales,High School,Yes,Consultant,6/27/2022 0:00,73097 ,2,3
+EMP2081,Operations,High School,No,Associate,3/26/2021 0:00,62608 ,1,3
+EMP2082,HR,PhD,Yes,Analyst,8/18/2016 0:00,63525 ,5,5
+EMP2083,HR,PhD,Yes,Technician,3/10/2016 0:00,55036 ,2,3
+EMP2084,IT,Master's,No,Executive,5/31/2017 0:00,65043 ,4,8
+EMP2085,IT,High School,No,Manager,11/17/2019 0:00,111846 ,4,8
+EMP2086,Marketing,Master's,No,Analyst,2/6/2016 0:00,51725 ,5,2
+EMP2087,Marketing,Master's,Yes,Technician,4/23/2022 0:00,33936 ,2,4
+EMP2088,Finance,Bachelor's,Yes,Analyst,11/5/2020 0:00,77383 ,4,1
+EMP2089,Finance,High School,Yes,Technician,3/16/2022 0:00,59483 ,5,4
+EMP2090,HR,High School,Yes,Associate,4/15/2019 0:00,42265 ,4,4
+EMP2091,IT,Bachelor's,No,Consultant,11/5/2015 0:00,72763 ,4,9
+EMP2092,HR,Master's,No,Analyst,12/9/2015 0:00,50116 ,4,3
+EMP2093,HR,High School,Yes,Analyst,3/11/2016 0:00,55733 ,3,2
+EMP2094,IT,Master's,Yes,Analyst,6/26/2015 0:00,65502 ,2,9
+EMP2095,Finance,Bachelor's,Yes,Consultant,5/19/2015 0:00,87420 ,5,9
+EMP2096,Operations,PhD,Yes,Manager,7/13/2015 0:00,79247 ,5,1
+EMP2097,Operations,Master's,No,Technician,3/30/2018 0:00,53840 ,2,6
+EMP2098,Operations,High School,No,Associate,7/31/2017 0:00,56058 ,2,8
+EMP2099,IT,PhD,Yes,Analyst,6/8/2016 0:00,74929 ,2,3
+EMP2100,Sales,Master's,No,Consultant,6/13/2019 0:00,81362 ,2,9
+EMP2101,Sales,Master's,Yes,Manager,3/7/2021 0:00,117356 ,1,2
+EMP2102,Sales,PhD,Yes,Technician,1/10/2017 0:00,42061 ,5,6
+EMP2103,Marketing,PhD,No,Consultant,5/11/2017 0:00,56041 ,1,1
+EMP2104,Finance,PhD,Yes,Associate,8/11/2017 0:00,47673 ,4,7
+EMP2105,Finance,High School,No,Associate,7/26/2018 0:00,56059 ,4,3
+EMP2106,Marketing,High School,Yes,Technician,6/28/2018 0:00,31560 ,5,7
+EMP2107,HR,Master's,No,Analyst,10/10/2019 0:00,57548 ,4,4
+EMP2108,Operations,Master's,Yes,Associate,11/20/2022 0:00,50078 ,2,9
+EMP2109,Sales,Bachelor's,No,Manager,12/27/2020 0:00,75419 ,1,5
+EMP2110,Operations,High School,Yes,Consultant,3/2/2017 0:00,85490 ,2,3
+EMP2111,Sales,Master's,Yes,Manager,6/29/2016 0:00,146086 ,4,8
+EMP2112,Operations,PhD,No,Analyst,1/19/2020 0:00,70337 ,1,6
+EMP2113,HR,PhD,Yes,Manager,10/13/2017 0:00,71468 ,2,2
+EMP2114,Operations,High School,No,Manager,4/11/2020 0:00,94309 ,5,3
+EMP2115,Operations,PhD,No,Executive,4/3/2019 0:00,50808 ,2,8
+EMP2116,IT,Bachelor's,Yes,Manager,2/26/2015 0:00,142255 ,4,7
+EMP2117,Operations,Master's,Yes,Technician,11/29/2020 0:00,58702 ,1,6
+EMP2118,IT,Master's,Yes,Consultant,1/5/2015 0:00,78718 ,5,1
+EMP2119,Finance,Master's,Yes,Executive,12/8/2018 0:00,78801 ,1,9
+EMP2120,Marketing,High School,No,Consultant,9/24/2018 0:00,87841 ,5,3
+EMP2121,Operations,PhD,Yes,Consultant,12/26/2019 0:00,96660 ,1,5
+EMP2122,Finance,Bachelor's,Yes,Analyst,7/6/2018 0:00,40767 ,4,7
+EMP2123,IT,High School,Yes,Analyst,11/7/2020 0:00,43895 ,5,7
+EMP2124,Operations,Master's,No,Executive,4/17/2022 0:00,92968 ,3,3
+EMP2125,Operations,Bachelor's,Yes,Associate,7/8/2022 0:00,50332 ,1,4
+EMP2126,HR,Master's,No,Analyst,6/27/2018 0:00,54621 ,1,7
+EMP2127,Finance,Master's,Yes,Analyst,2/5/2018 0:00,51334 ,2,8
+EMP2128,Sales,High School,No,Analyst,10/29/2016 0:00,58174 ,5,2
+EMP2129,Sales,Master's,Yes,Consultant,3/26/2022 0:00,90502 ,3,9
+EMP2130,HR,Bachelor's,Yes,Executive,3/21/2022 0:00,86674 ,4,7
+EMP2131,IT,Master's,No,Consultant,12/7/2021 0:00,87260 ,2,8
+EMP2132,Sales,PhD,Yes,Technician,7/5/2018 0:00,39730 ,3,6
+EMP2133,Sales,Master's,Yes,Consultant,5/10/2022 0:00,117609 ,5,6
+EMP2134,Marketing,High School,Yes,Technician,9/23/2017 0:00,46696 ,3,9
+EMP2135,Finance,Bachelor's,No,Manager,4/10/2020 0:00,141805 ,1,4
+EMP2136,IT,High School,Yes,Manager,10/9/2015 0:00,134919 ,1,5
+EMP2137,Operations,PhD,No,Technician,5/12/2018 0:00,51701 ,2,9
+EMP2138,Finance,Master's,No,Technician,8/25/2020 0:00,47194 ,5,1
+EMP2139,IT,High School,No,Consultant,7/24/2017 0:00,76811 ,5,4
+EMP2140,Sales,High School,Yes,Technician,9/11/2015 0:00,36841 ,3,7
+EMP2141,Marketing,High School,No,Executive,4/26/2018 0:00,93723 ,2,9
+EMP2142,Finance,High School,No,Manager,11/25/2015 0:00,145235 ,5,6
+EMP2143,Sales,PhD,Yes,Manager,2/4/2022 0:00,146298 ,1,8
+EMP2144,IT,PhD,No,Associate,10/1/2022 0:00,37147 ,3,9
+EMP2145,Finance,Master's,No,Technician,11/21/2018 0:00,30615 ,4,4
+EMP2146,Operations,Master's,Yes,Analyst,3/21/2019 0:00,73715 ,1,1
+EMP2147,Finance,Bachelor's,Yes,Analyst,12/2/2022 0:00,78445 ,2,8
+EMP2148,Sales,PhD,No,Technician,4/7/2018 0:00,51035 ,5,2
+EMP2149,Finance,High School,Yes,Executive,9/13/2019 0:00,90634 ,1,1
+EMP2150,Operations,High School,Yes,Analyst,8/10/2021 0:00,42013 ,4,7
+EMP2151,Marketing,Bachelor's,Yes,Associate,4/16/2018 0:00,55081 ,4,9
+EMP2152,Marketing,High School,No,Technician,10/16/2016 0:00,46874 ,2,9
+EMP2153,Sales,Bachelor's,No,Executive,10/17/2018 0:00,87755 ,1,3
+EMP2154,IT,Master's,Yes,Executive,1/29/2017 0:00,58733 ,3,6
+EMP2155,Sales,PhD,No,Consultant,5/10/2022 0:00,59479 ,1,7
+EMP2156,Marketing,Bachelor's,Yes,Executive,12/4/2019 0:00,59825 ,4,9
+EMP2157,HR,High School,Yes,Analyst,11/29/2017 0:00,61304 ,2,2
+EMP2158,HR,Bachelor's,Yes,Analyst,2/20/2016 0:00,75694 ,2,8
+EMP2159,Finance,Master's,Yes,Technician,9/12/2015 0:00,55928 ,3,7
+EMP2160,Operations,High School,Yes,Technician,3/12/2018 0:00,37282 ,2,4
+EMP2161,Finance,Master's,No,Executive,2/20/2020 0:00,65635 ,2,2
+EMP2162,HR,Master's,No,Associate,7/20/2022 0:00,55760 ,2,8
+EMP2163,Marketing,Bachelor's,No,Manager,3/9/2022 0:00,79490 ,2,5
+EMP2164,Finance,Master's,No,Consultant,6/18/2017 0:00,71252 ,2,6
+EMP2165,Sales,High School,Yes,Manager,8/20/2020 0:00,76862 ,4,7
+EMP2166,Operations,Master's,Yes,Executive,1/26/2015 0:00,94927 ,1,1
+EMP2167,Sales,Master's,No,Executive,2/25/2016 0:00,54423 ,5,8
+EMP2168,Operations,Bachelor's,No,Manager,5/29/2018 0:00,80450 ,2,4
+EMP2169,Marketing,Master's,Yes,Consultant,2/20/2020 0:00,106022 ,5,9
+EMP2170,Finance,PhD,Yes,Manager,12/18/2021 0:00,131991 ,5,1
+EMP2171,Operations,Bachelor's,Yes,Technician,6/14/2018 0:00,38159 ,4,2
+EMP2172,Sales,Bachelor's,No,Analyst,4/3/2021 0:00,74841 ,2,6
+EMP2173,Finance,High School,Yes,Associate,10/5/2017 0:00,57554 ,5,1
+EMP2174,Finance,High School,Yes,Technician,8/7/2015 0:00,47085 ,2,4
+EMP2175,Sales,High School,No,Analyst,2/19/2019 0:00,71826 ,3,8
+EMP2176,HR,High School,No,Associate,5/13/2020 0:00,41825 ,3,5
+EMP2177,Operations,PhD,No,Associate,11/13/2021 0:00,47454 ,3,9
+EMP2178,Sales,Bachelor's,Yes,Associate,10/24/2016 0:00,59251 ,5,6
+EMP2179,Marketing,Master's,Yes,Executive,5/6/2022 0:00,70648 ,3,1
+EMP2180,IT,High School,No,Associate,9/16/2017 0:00,59530 ,4,6
+EMP2181,Sales,High School,Yes,Consultant,7/8/2015 0:00,97058 ,4,6
+EMP2182,Finance,High School,Yes,Manager,9/12/2015 0:00,144094 ,5,6
+EMP2183,Finance,Master's,Yes,Consultant,3/9/2015 0:00,54886 ,2,8
+EMP2184,Sales,High School,No,Manager,9/7/2016 0:00,107387 ,1,6
+EMP2185,IT,Master's,No,Technician,7/11/2021 0:00,51575 ,2,5
+EMP2186,Sales,Bachelor's,Yes,Technician,6/11/2022 0:00,43956 ,2,2
+EMP2187,IT,Bachelor's,Yes,Manager,11/8/2022 0:00,109643 ,2,4
+EMP2188,IT,Bachelor's,Yes,Consultant,5/23/2017 0:00,60100 ,2,5
+EMP2189,Marketing,PhD,Yes,Manager,6/5/2021 0:00,130356 ,1,4
+EMP2190,Operations,Master's,No,Associate,6/14/2019 0:00,42856 ,3,2
+EMP2191,Finance,High School,No,Executive,12/23/2015 0:00,88169 ,2,7
+EMP2192,Finance,High School,Yes,Technician,9/13/2015 0:00,58804 ,4,2
+EMP2193,IT,High School,Yes,Executive,10/4/2017 0:00,85790 ,5,1
+EMP2194,Finance,High School,No,Associate,7/28/2021 0:00,65988 ,5,5
+EMP2195,HR,PhD,Yes,Associate,10/22/2019 0:00,45912 ,4,1
+EMP2196,IT,High School,No,Technician,1/15/2022 0:00,35738 ,2,1
+EMP2197,Finance,PhD,Yes,Technician,9/4/2022 0:00,45126 ,1,1
+EMP2198,HR,Master's,No,Associate,10/11/2015 0:00,57368 ,3,6
+EMP2199,Marketing,Bachelor's,Yes,Analyst,4/9/2015 0:00,41770 ,5,9
+EMP2200,Finance,High School,Yes,Executive,7/16/2015 0:00,62305 ,3,1
+EMP2201,HR,Bachelor's,No,Executive,12/4/2021 0:00,59969 ,1,5
+EMP2202,Sales,Master's,No,Analyst,5/27/2017 0:00,52404 ,5,9
+EMP2203,Operations,Master's,Yes,Consultant,2/12/2020 0:00,58989 ,3,9
+EMP2204,Sales,High School,Yes,Executive,4/16/2022 0:00,85983 ,1,1
+EMP2205,HR,Master's,No,Manager,4/19/2022 0:00,109462 ,3,8
+EMP2206,IT,Bachelor's,No,Associate,10/20/2018 0:00,54360 ,2,1
+EMP2207,IT,High School,Yes,Associate,8/12/2021 0:00,55121 ,1,8
+EMP2208,Finance,PhD,Yes,Analyst,7/23/2016 0:00,66287 ,3,1
+EMP2209,Sales,High School,No,Executive,3/22/2022 0:00,99904 ,2,5
+EMP2210,IT,Bachelor's,No,Consultant,12/1/2017 0:00,111313 ,2,8
+EMP2211,IT,High School,No,Executive,2/26/2016 0:00,84160 ,1,6
+EMP2212,Sales,High School,No,Associate,11/23/2022 0:00,41789 ,4,9
+EMP2213,Marketing,Bachelor's,No,Technician,4/19/2018 0:00,57181 ,5,1
+EMP2214,IT,High School,Yes,Manager,6/28/2016 0:00,84385 ,1,9
+EMP2215,Operations,High School,Yes,Analyst,3/12/2015 0:00,57061 ,2,1
+EMP2216,HR,Bachelor's,No,Technician,5/8/2018 0:00,30105 ,2,3
+EMP2217,Finance,Master's,Yes,Consultant,2/6/2017 0:00,94247 ,1,1
+EMP2218,IT,Bachelor's,Yes,Technician,6/12/2021 0:00,51137 ,4,3
+EMP2219,Operations,High School,No,Technician,9/3/2019 0:00,31946 ,5,2
+EMP2220,Operations,PhD,Yes,Consultant,8/21/2021 0:00,55544 ,3,2
+EMP2221,IT,PhD,Yes,Technician,10/16/2016 0:00,47479 ,1,9
+EMP2222,Marketing,Bachelor's,Yes,Analyst,6/18/2022 0:00,53275 ,5,8
+EMP2223,HR,PhD,No,Associate,9/12/2021 0:00,69550 ,5,1
+EMP2224,Finance,High School,No,Executive,12/2/2019 0:00,69641 ,2,4
+EMP2225,IT,High School,Yes,Technician,8/9/2015 0:00,36213 ,3,1
+EMP2226,Finance,Bachelor's,Yes,Analyst,7/1/2015 0:00,54485 ,1,1
+EMP2227,Sales,High School,Yes,Executive,11/3/2015 0:00,65605 ,2,4
+EMP2228,Operations,Master's,Yes,Executive,1/13/2022 0:00,87637 ,2,2
+EMP2229,Operations,High School,Yes,Technician,11/20/2018 0:00,47945 ,4,3
+EMP2230,IT,Bachelor's,Yes,Analyst,10/10/2017 0:00,60390 ,5,9
+EMP2231,IT,Master's,No,Associate,8/13/2020 0:00,44867 ,1,2
+EMP2232,Sales,Master's,Yes,Technician,12/20/2022 0:00,55698 ,1,4
+EMP2233,Marketing,PhD,Yes,Consultant,4/27/2017 0:00,53981 ,1,1
+EMP2234,IT,High School,No,Executive,3/14/2017 0:00,59493 ,2,2
+EMP2235,Operations,Bachelor's,Yes,Technician,8/3/2015 0:00,35682 ,4,5
+EMP2236,Finance,PhD,Yes,Executive,12/14/2018 0:00,55782 ,3,1
+EMP2237,HR,PhD,Yes,Analyst,4/11/2015 0:00,69799 ,2,7
+EMP2238,Finance,High School,Yes,Manager,7/26/2016 0:00,86984 ,3,4
+EMP2239,Marketing,High School,No,Technician,8/25/2018 0:00,57276 ,4,6
+EMP2240,HR,Bachelor's,Yes,Associate,10/19/2016 0:00,57760 ,5,8
+EMP2241,Finance,PhD,No,Technician,3/14/2019 0:00,55993 ,1,6
+EMP2242,Finance,Bachelor's,Yes,Executive,7/15/2019 0:00,51524 ,3,2
+EMP2243,Sales,PhD,Yes,Analyst,8/14/2015 0:00,66120 ,2,1
+EMP2244,Marketing,PhD,No,Consultant,4/15/2015 0:00,115614 ,3,8
+EMP2245,Operations,PhD,Yes,Associate,6/20/2020 0:00,60473 ,5,8
+EMP2246,Sales,High School,No,Analyst,2/10/2017 0:00,79832 ,1,9
+EMP2247,HR,PhD,No,Technician,3/4/2016 0:00,43068 ,3,6
+EMP2248,Operations,PhD,No,Consultant,3/9/2016 0:00,63362 ,5,1
+EMP2249,Sales,PhD,Yes,Analyst,5/15/2018 0:00,41209 ,2,9
+EMP2250,Marketing,Master's,Yes,Manager,6/22/2022 0:00,107921 ,4,3
+EMP2251,IT,High School,Yes,Associate,3/20/2022 0:00,39898 ,2,6
+EMP2252,IT,Master's,Yes,Executive,5/15/2017 0:00,68562 ,1,9
+EMP2253,HR,High School,No,Analyst,8/25/2022 0:00,50871 ,2,3
+EMP2254,IT,Bachelor's,Yes,Analyst,12/21/2022 0:00,47610 ,2,5
+EMP2255,Sales,Master's,Yes,Manager,8/12/2021 0:00,85791 ,2,5
+EMP2256,HR,Bachelor's,No,Technician,9/8/2015 0:00,55279 ,2,7
+EMP2257,Operations,PhD,No,Associate,12/16/2022 0:00,37370 ,1,4
+EMP2258,Marketing,Bachelor's,Yes,Associate,5/5/2017 0:00,54665 ,5,4
+EMP2259,HR,Bachelor's,No,Executive,4/8/2018 0:00,54710 ,3,7
+EMP2260,Operations,Bachelor's,No,Analyst,7/14/2016 0:00,40328 ,4,9
+EMP2261,HR,Bachelor's,No,Consultant,1/9/2019 0:00,96451 ,3,4
+EMP2262,Finance,High School,No,Analyst,5/30/2021 0:00,78347 ,3,4
+EMP2263,Finance,Master's,No,Executive,7/7/2017 0:00,70612 ,4,6
+EMP2264,HR,High School,Yes,Analyst,3/19/2018 0:00,46794 ,1,6
+EMP2265,IT,High School,Yes,Manager,3/8/2016 0:00,102888 ,4,7
+EMP2266,Finance,High School,Yes,Analyst,10/7/2020 0:00,46749 ,1,1
+EMP2267,Marketing,Bachelor's,Yes,Analyst,8/26/2017 0:00,60608 ,3,3
+EMP2268,Operations,High School,Yes,Consultant,4/15/2017 0:00,119211 ,1,9
+EMP2269,Sales,Master's,Yes,Manager,2/24/2021 0:00,126017 ,5,6
+EMP2270,Finance,High School,Yes,Manager,3/12/2021 0:00,127676 ,4,6
+EMP2271,HR,PhD,No,Analyst,6/16/2017 0:00,51560 ,5,5
+EMP2272,IT,Bachelor's,Yes,Associate,4/16/2016 0:00,67463 ,3,3
+EMP2273,Sales,PhD,Yes,Consultant,9/4/2015 0:00,81663 ,4,5
+EMP2274,Operations,Master's,Yes,Analyst,8/26/2021 0:00,43170 ,3,1
+EMP2275,Operations,Master's,No,Analyst,9/17/2017 0:00,73123 ,5,3
+EMP2276,Finance,Master's,Yes,Executive,7/15/2017 0:00,78810 ,3,4
+EMP2277,Operations,Master's,Yes,Executive,4/6/2018 0:00,59718 ,4,5
+EMP2278,Operations,High School,No,Associate,2/20/2022 0:00,35028 ,4,9
+EMP2279,IT,Bachelor's,Yes,Consultant,12/10/2017 0:00,112370 ,3,4
+EMP2280,IT,Master's,Yes,Technician,1/9/2020 0:00,44831 ,4,3
+EMP2281,IT,PhD,No,Executive,11/19/2016 0:00,67397 ,4,1
+EMP2282,HR,Master's,Yes,Technician,8/24/2021 0:00,40894 ,3,6
+EMP2283,Operations,Bachelor's,No,Manager,11/26/2021 0:00,115406 ,5,7
+EMP2284,Operations,PhD,Yes,Executive,7/7/2022 0:00,97657 ,4,8
+EMP2285,Operations,PhD,Yes,Executive,1/24/2019 0:00,52024 ,4,1
+EMP2286,Marketing,PhD,Yes,Consultant,8/17/2017 0:00,63503 ,4,4
+EMP2287,IT,High School,No,Associate,4/22/2016 0:00,45303 ,4,5
+EMP2288,Sales,Master's,No,Technician,12/7/2016 0:00,47138 ,3,2
+EMP2289,Finance,High School,No,Executive,12/11/2022 0:00,75345 ,5,1
+EMP2290,Sales,PhD,Yes,Executive,2/11/2018 0:00,79505 ,5,8
+EMP2291,HR,High School,Yes,Consultant,1/23/2017 0:00,109557 ,1,6
+EMP2292,HR,High School,No,Consultant,12/25/2021 0:00,115054 ,4,5
+EMP2293,Operations,High School,No,Associate,7/18/2019 0:00,36906 ,4,9
+EMP2294,Sales,Master's,Yes,Technician,11/4/2022 0:00,37399 ,1,2
+EMP2295,Operations,PhD,Yes,Manager,8/10/2016 0:00,77961 ,5,8
+EMP2296,Marketing,PhD,Yes,Associate,8/27/2018 0:00,61140 ,2,9
+EMP2297,HR,Master's,Yes,Manager,2/1/2019 0:00,128701 ,2,1
+EMP2298,HR,High School,No,Analyst,1/22/2020 0:00,52031 ,5,7
+EMP2299,Sales,High School,Yes,Executive,7/18/2022 0:00,65128 ,4,8
+EMP2300,HR,Bachelor's,Yes,Technician,7/26/2015 0:00,45663 ,2,3
+EMP2301,Marketing,Bachelor's,Yes,Associate,1/7/2021 0:00,69228 ,3,4
+EMP2302,Marketing,Bachelor's,Yes,Executive,6/8/2022 0:00,65682 ,3,3
+EMP2303,Marketing,Master's,Yes,Technician,1/19/2022 0:00,54053 ,1,7
+EMP2304,Finance,PhD,Yes,Technician,6/14/2015 0:00,45193 ,5,9
+EMP2305,Marketing,Bachelor's,Yes,Technician,6/21/2020 0:00,58561 ,5,3
+EMP2306,Marketing,PhD,No,Executive,9/15/2020 0:00,93813 ,2,6
+EMP2307,Finance,PhD,No,Associate,11/29/2015 0:00,42766 ,4,8
+EMP2308,Operations,PhD,No,Consultant,2/7/2016 0:00,79504 ,5,6
+EMP2309,IT,Master's,Yes,Executive,2/18/2016 0:00,87146 ,2,2
+EMP2310,HR,Master's,No,Technician,2/14/2015 0:00,37529 ,2,7
+EMP2311,Marketing,Master's,Yes,Associate,3/3/2021 0:00,55858 ,5,2
+EMP2312,HR,Master's,Yes,Analyst,3/3/2015 0:00,43071 ,2,2
+EMP2313,Sales,Bachelor's,Yes,Manager,10/3/2021 0:00,86939 ,1,2
+EMP2314,HR,High School,Yes,Technician,5/17/2017 0:00,54931 ,1,1
+EMP2315,Operations,High School,No,Analyst,1/31/2019 0:00,41040 ,5,1
+EMP2316,Finance,High School,Yes,Consultant,11/7/2022 0:00,118222 ,4,7
+EMP2317,HR,Bachelor's,Yes,Technician,1/19/2015 0:00,42666 ,1,5
+EMP2318,HR,High School,No,Analyst,12/31/2015 0:00,75321 ,1,3
+EMP2319,HR,Bachelor's,No,Technician,10/11/2021 0:00,31779 ,5,1
+EMP2320,IT,Bachelor's,No,Executive,2/14/2018 0:00,63186 ,3,6
+EMP2321,IT,Bachelor's,Yes,Associate,8/2/2016 0:00,51459 ,2,1
+EMP2322,Sales,High School,No,Analyst,6/29/2016 0:00,60710 ,1,9
+EMP2323,Finance,PhD,Yes,Associate,9/26/2019 0:00,57219 ,3,2
+EMP2324,HR,High School,Yes,Executive,6/30/2021 0:00,55057 ,4,1
+EMP2325,HR,High School,No,Executive,2/24/2015 0:00,68733 ,3,7
+EMP2326,HR,Master's,No,Associate,2/16/2017 0:00,54157 ,5,6
+EMP2327,HR,Bachelor's,No,Analyst,2/11/2015 0:00,75030 ,4,6
+EMP2328,IT,PhD,Yes,Associate,8/13/2018 0:00,54613 ,4,5
+EMP2329,Operations,Master's,Yes,Associate,8/19/2015 0:00,52492 ,3,4
+EMP2330,Operations,PhD,Yes,Manager,3/28/2016 0:00,75188 ,5,4
+EMP2331,Sales,PhD,Yes,Analyst,9/7/2021 0:00,69680 ,1,3
+EMP2332,Marketing,Bachelor's,Yes,Manager,3/26/2019 0:00,130119 ,3,8
+EMP2333,Finance,High School,Yes,Technician,10/13/2018 0:00,33998 ,1,7
+EMP2334,Operations,Bachelor's,No,Associate,1/7/2019 0:00,43864 ,3,9
+EMP2335,HR,Bachelor's,Yes,Technician,2/25/2018 0:00,52950 ,1,1
+EMP2336,Operations,Master's,No,Analyst,7/1/2022 0:00,76445 ,3,7
+EMP2337,Sales,Bachelor's,No,Associate,9/5/2021 0:00,40796 ,4,4
+EMP2338,Marketing,High School,No,Technician,5/1/2018 0:00,44450 ,2,7
+EMP2339,Operations,PhD,No,Consultant,4/5/2022 0:00,89131 ,4,1
+EMP2340,Sales,Bachelor's,No,Executive,5/30/2017 0:00,58123 ,1,5
+EMP2341,IT,PhD,Yes,Associate,3/26/2015 0:00,43222 ,5,3
+EMP2342,Marketing,Bachelor's,Yes,Executive,11/19/2017 0:00,74074 ,4,5
+EMP2343,Sales,PhD,Yes,Manager,2/18/2015 0:00,99825 ,2,4
+EMP2344,Operations,Bachelor's,Yes,Technician,3/14/2018 0:00,34071 ,1,2
+EMP2345,IT,Master's,No,Manager,3/10/2015 0:00,138322 ,4,4
+EMP2346,Sales,PhD,No,Associate,7/7/2022 0:00,68638 ,3,3
+EMP2347,Sales,Bachelor's,No,Executive,12/1/2021 0:00,86964 ,5,1
+EMP2348,Operations,Bachelor's,Yes,Executive,11/7/2022 0:00,94564 ,1,8
+EMP2349,Marketing,Master's,Yes,Technician,8/29/2019 0:00,55988 ,4,5
+EMP2350,IT,Master's,Yes,Associate,5/18/2019 0:00,68708 ,1,4
+EMP2351,HR,Master's,Yes,Consultant,1/3/2021 0:00,73806 ,3,5
+EMP2352,Finance,PhD,No,Consultant,2/13/2020 0:00,86901 ,2,4
+EMP2353,Marketing,PhD,No,Technician,10/12/2017 0:00,47043 ,4,3
+EMP2354,IT,Master's,Yes,Associate,4/10/2022 0:00,45225 ,1,5
+EMP2355,Sales,High School,Yes,Technician,3/21/2016 0:00,39752 ,1,4
+EMP2356,IT,High School,No,Associate,3/18/2021 0:00,38457 ,1,1
+EMP2357,Finance,Bachelor's,No,Manager,11/2/2018 0:00,112616 ,2,3
+EMP2358,Operations,High School,No,Technician,11/12/2020 0:00,49359 ,1,8
+EMP2359,Finance,Bachelor's,No,Associate,9/19/2015 0:00,44241 ,5,7
+EMP2360,HR,PhD,Yes,Consultant,1/23/2020 0:00,50453 ,5,2
+EMP2361,HR,PhD,No,Associate,6/15/2017 0:00,44896 ,1,1
+EMP2362,Finance,High School,No,Associate,12/30/2017 0:00,56826 ,5,3
+EMP2363,Marketing,PhD,No,Technician,3/16/2021 0:00,40976 ,4,5
+EMP2364,Marketing,Master's,No,Manager,4/6/2019 0:00,140404 ,5,1
+EMP2365,Sales,Master's,Yes,Manager,4/2/2015 0:00,147707 ,1,3
+EMP2366,HR,High School,Yes,Manager,5/7/2015 0:00,103688 ,3,3
+EMP2367,Sales,High School,Yes,Manager,3/21/2015 0:00,72017 ,4,5
+EMP2368,HR,Bachelor's,Yes,Analyst,1/22/2020 0:00,47957 ,2,3
+EMP2369,Finance,PhD,Yes,Technician,9/9/2017 0:00,46230 ,1,9
+EMP2370,Marketing,Bachelor's,Yes,Executive,7/4/2017 0:00,92188 ,2,1
+EMP2371,Marketing,Bachelor's,No,Technician,12/8/2021 0:00,34792 ,3,4
+EMP2372,Finance,Master's,No,Analyst,11/24/2016 0:00,53237 ,2,4
+EMP2373,Sales,Master's,No,Manager,1/25/2015 0:00,121586 ,1,1
+EMP2374,Sales,Master's,No,Analyst,6/5/2015 0:00,56251 ,1,2
+EMP2375,IT,Master's,Yes,Consultant,5/3/2022 0:00,69252 ,3,1
+EMP2376,HR,Bachelor's,No,Consultant,12/18/2019 0:00,60707 ,1,6
+EMP2377,Sales,Master's,Yes,Technician,4/3/2019 0:00,31438 ,3,3
+EMP2378,Finance,PhD,No,Technician,5/20/2020 0:00,58740 ,3,7
+EMP2379,Sales,Master's,No,Executive,9/30/2019 0:00,53543 ,1,5
+EMP2380,Marketing,Master's,No,Executive,12/16/2017 0:00,94135 ,5,9
+EMP2381,HR,Master's,Yes,Consultant,6/17/2019 0:00,85031 ,3,7
+EMP2382,Operations,High School,No,Manager,1/19/2015 0:00,112929 ,1,4
+EMP2383,IT,PhD,Yes,Analyst,11/8/2018 0:00,40211 ,5,5
+EMP2384,HR,PhD,Yes,Executive,5/1/2018 0:00,96577 ,3,5
+EMP2385,Marketing,Bachelor's,No,Associate,4/3/2021 0:00,35331 ,5,5
+EMP2386,Marketing,Bachelor's,Yes,Executive,11/11/2018 0:00,73244 ,4,9
+EMP2387,Marketing,Master's,Yes,Manager,10/4/2015 0:00,127196 ,4,3
+EMP2388,Marketing,High School,No,Manager,1/14/2017 0:00,143705 ,5,6
+EMP2389,Finance,Bachelor's,No,Technician,7/5/2016 0:00,55126 ,3,8
+EMP2390,IT,Bachelor's,No,Analyst,3/22/2018 0:00,62104 ,1,9
+EMP2391,Operations,Master's,No,Manager,9/30/2016 0:00,84591 ,2,7
+EMP2392,Marketing,Master's,No,Executive,8/25/2015 0:00,81711 ,1,3
+EMP2393,Marketing,Bachelor's,No,Executive,9/24/2017 0:00,98893 ,2,1
+EMP2394,Sales,Bachelor's,Yes,Consultant,10/3/2020 0:00,50727 ,2,4
+EMP2395,IT,PhD,No,Manager,6/26/2020 0:00,91359 ,3,6
+EMP2396,HR,High School,No,Associate,12/30/2018 0:00,57998 ,5,3
+EMP2397,IT,PhD,Yes,Technician,6/24/2022 0:00,40929 ,1,1
+EMP2398,IT,Bachelor's,No,Analyst,11/26/2020 0:00,54842 ,5,6
+EMP2399,Operations,PhD,Yes,Associate,4/22/2018 0:00,58519 ,4,1
+EMP2400,IT,PhD,No,Technician,10/23/2018 0:00,47393 ,3,9
+EMP2401,Operations,Bachelor's,No,Executive,6/29/2020 0:00,84318 ,3,1
+EMP2402,Marketing,Master's,Yes,Associate,5/6/2018 0:00,43995 ,4,6
+EMP2403,Marketing,Bachelor's,No,Technician,10/26/2018 0:00,58656 ,1,1
+EMP2404,Finance,Master's,Yes,Executive,1/8/2016 0:00,97934 ,4,7
+EMP2405,Operations,Bachelor's,No,Executive,3/1/2019 0:00,90260 ,1,3
+EMP2406,Operations,Bachelor's,No,Executive,2/26/2021 0:00,95269 ,2,6
+EMP2407,HR,Bachelor's,Yes,Executive,4/28/2017 0:00,65567 ,3,7
+EMP2408,Sales,High School,No,Executive,12/31/2021 0:00,78840 ,1,1
+EMP2409,IT,Master's,No,Consultant,9/7/2018 0:00,63265 ,5,1
+EMP2410,HR,High School,Yes,Associate,5/11/2021 0:00,40424 ,5,5
+EMP2411,Operations,Bachelor's,No,Technician,3/8/2021 0:00,50625 ,3,6
+EMP2412,HR,PhD,Yes,Consultant,5/18/2016 0:00,79187 ,4,9
+EMP2413,Finance,High School,No,Consultant,12/3/2016 0:00,85929 ,4,1
+EMP2414,Sales,Master's,Yes,Manager,9/20/2020 0:00,131892 ,1,4
+EMP2415,Operations,Bachelor's,No,Manager,11/11/2015 0:00,90539 ,4,8
+EMP2416,Operations,High School,Yes,Manager,10/6/2022 0:00,126630 ,3,9
+EMP2417,IT,PhD,Yes,Analyst,7/4/2021 0:00,65103 ,1,3
+EMP2418,Sales,High School,No,Manager,11/6/2017 0:00,79215 ,2,2
+EMP2419,Finance,Master's,No,Technician,10/10/2015 0:00,36617 ,4,4
+EMP2420,Marketing,High School,Yes,Consultant,9/15/2015 0:00,75008 ,4,2
+EMP2421,HR,PhD,No,Technician,7/28/2016 0:00,46160 ,1,1
+EMP2422,IT,PhD,Yes,Associate,7/27/2016 0:00,52560 ,5,3
+EMP2423,Operations,Master's,No,Manager,4/13/2022 0:00,94976 ,4,7
+EMP2424,Marketing,PhD,No,Analyst,11/8/2017 0:00,67626 ,3,1
+EMP2425,Finance,Bachelor's,Yes,Associate,4/2/2019 0:00,67720 ,4,2
+EMP2426,Sales,PhD,Yes,Analyst,11/24/2022 0:00,75001 ,2,1
+EMP2427,HR,Bachelor's,No,Associate,2/27/2016 0:00,39700 ,4,8
+EMP2428,IT,High School,No,Consultant,1/29/2019 0:00,113645 ,5,5
+EMP2429,Operations,Bachelor's,No,Technician,10/28/2018 0:00,52290 ,4,8
+EMP2430,Operations,Bachelor's,No,Executive,1/27/2017 0:00,57860 ,1,3
+EMP2431,Marketing,High School,No,Technician,9/11/2022 0:00,37526 ,4,7
+EMP2432,Marketing,PhD,Yes,Manager,1/9/2018 0:00,109500 ,5,8
+EMP2433,HR,Bachelor's,No,Executive,4/24/2019 0:00,52513 ,1,6
+EMP2434,Sales,PhD,No,Analyst,10/7/2021 0:00,47830 ,3,7
+EMP2435,Finance,High School,Yes,Consultant,3/4/2016 0:00,109117 ,1,2
+EMP2436,Sales,Master's,Yes,Consultant,7/14/2020 0:00,106096 ,2,8
+EMP2437,Sales,PhD,Yes,Analyst,7/23/2015 0:00,47910 ,1,5
+EMP2438,Sales,PhD,No,Manager,2/21/2021 0:00,141185 ,3,7
+EMP2439,HR,Master's,Yes,Analyst,8/7/2022 0:00,49120 ,4,1
+EMP2440,HR,Master's,Yes,Associate,5/21/2021 0:00,36951 ,1,5
+EMP2441,Finance,High School,Yes,Manager,6/15/2020 0:00,135212 ,1,1
+EMP2442,Sales,PhD,Yes,Executive,2/21/2021 0:00,60165 ,1,8
+EMP2443,HR,PhD,No,Analyst,11/3/2015 0:00,54352 ,1,4
+EMP2444,Finance,High School,No,Manager,8/15/2019 0:00,145282 ,3,4
+EMP2445,Operations,PhD,No,Executive,1/14/2015 0:00,93738 ,5,2
+EMP2446,Finance,Bachelor's,Yes,Analyst,2/4/2020 0:00,68997 ,5,5
+EMP2447,Sales,Bachelor's,Yes,Consultant,5/15/2020 0:00,91954 ,1,1
+EMP2448,IT,Bachelor's,Yes,Analyst,12/16/2017 0:00,64183 ,3,9
+EMP2449,Sales,PhD,Yes,Technician,12/23/2016 0:00,38804 ,3,5
+EMP2450,IT,Bachelor's,Yes,Analyst,2/18/2017 0:00,67169 ,1,6
+EMP2451,Finance,Bachelor's,Yes,Technician,5/18/2018 0:00,30595 ,2,2
+EMP2452,Operations,High School,No,Executive,6/12/2016 0:00,79592 ,1,1
+EMP2453,Operations,High School,No,Analyst,3/8/2017 0:00,60823 ,2,4
+EMP2454,HR,Master's,Yes,Executive,12/10/2015 0:00,55972 ,1,7
+EMP2455,Operations,Master's,No,Executive,7/26/2018 0:00,65882 ,2,6
+EMP2456,Marketing,Master's,Yes,Manager,7/28/2015 0:00,136394 ,2,1
+EMP2457,Finance,Master's,Yes,Executive,10/2/2016 0:00,55519 ,1,1
+EMP2458,HR,High School,No,Executive,8/4/2018 0:00,73769 ,2,8
+EMP2459,Operations,High School,Yes,Analyst,4/18/2021 0:00,65020 ,4,4
+EMP2460,Finance,High School,No,Analyst,5/7/2021 0:00,77085 ,5,5
+EMP2461,Sales,Bachelor's,Yes,Consultant,5/1/2020 0:00,94912 ,3,7
+EMP2462,Operations,Bachelor's,Yes,Manager,7/8/2017 0:00,82879 ,2,8
+EMP2463,IT,Master's,No,Executive,9/20/2019 0:00,83798 ,2,7
+EMP2464,Finance,Bachelor's,Yes,Manager,8/6/2020 0:00,116073 ,3,2
+EMP2465,HR,PhD,Yes,Technician,2/23/2016 0:00,40255 ,2,4
+EMP2466,Sales,High School,Yes,Executive,10/16/2019 0:00,51447 ,3,1
+EMP2467,Marketing,Master's,No,Manager,10/13/2022 0:00,113005 ,1,9
+EMP2468,Sales,Master's,Yes,Consultant,10/20/2018 0:00,52850 ,4,3
+EMP2469,Operations,PhD,Yes,Consultant,1/4/2018 0:00,78400 ,4,3
+EMP2470,IT,Bachelor's,Yes,Executive,8/4/2022 0:00,61953 ,5,9
+EMP2471,Sales,Master's,No,Technician,10/16/2021 0:00,38106 ,2,3
+EMP2472,Marketing,Bachelor's,No,Consultant,11/26/2020 0:00,73535 ,5,8
+EMP2473,HR,Bachelor's,No,Consultant,5/12/2022 0:00,54055 ,1,2
+EMP2474,Finance,PhD,No,Technician,3/26/2019 0:00,35402 ,4,3
+EMP2475,IT,Master's,No,Manager,12/6/2017 0:00,98251 ,1,2
+EMP2476,Marketing,Bachelor's,Yes,Consultant,8/23/2021 0:00,54532 ,1,1
+EMP2477,Operations,Bachelor's,No,Analyst,1/25/2020 0:00,44924 ,2,2
+EMP2478,Operations,PhD,No,Associate,1/24/2018 0:00,47546 ,1,8
+EMP2479,Operations,PhD,Yes,Associate,8/15/2017 0:00,61579 ,4,9
+EMP2480,IT,Bachelor's,No,Consultant,4/13/2015 0:00,60702 ,5,2
+EMP2481,Sales,PhD,Yes,Manager,12/11/2022 0:00,85385 ,4,7
+EMP2482,IT,Bachelor's,No,Manager,3/15/2018 0:00,79336 ,2,5
+EMP2483,Operations,Master's,Yes,Executive,3/18/2020 0:00,81225 ,4,3
+EMP2484,Marketing,High School,Yes,Analyst,10/22/2019 0:00,76021 ,3,9
+EMP2485,Finance,PhD,No,Manager,1/21/2022 0:00,73782 ,5,6
+EMP2486,Finance,High School,No,Technician,11/9/2016 0:00,53341 ,3,1
+EMP2487,IT,Bachelor's,Yes,Analyst,5/22/2020 0:00,64094 ,3,5
+EMP2488,Operations,Bachelor's,Yes,Associate,9/15/2017 0:00,58866 ,2,7
+EMP2489,HR,Bachelor's,Yes,Analyst,1/10/2018 0:00,59049 ,1,4
+EMP2490,IT,High School,Yes,Technician,10/11/2021 0:00,39951 ,3,8
+EMP2491,Operations,Bachelor's,Yes,Consultant,5/27/2019 0:00,99037 ,4,5
+EMP2492,Sales,PhD,Yes,Technician,11/9/2022 0:00,44567 ,1,9
+EMP2493,Finance,Master's,Yes,Technician,2/11/2019 0:00,41683 ,4,9
+EMP2494,Finance,Master's,No,Consultant,11/25/2019 0:00,53513 ,4,9
+EMP2495,Finance,PhD,Yes,Consultant,3/31/2018 0:00,63335 ,1,1
+EMP2496,HR,Master's,No,Consultant,7/20/2017 0:00,94140 ,1,2
+EMP2497,Operations,High School,No,Consultant,11/26/2018 0:00,84840 ,4,3
+EMP2498,Operations,Bachelor's,Yes,Consultant,11/27/2017 0:00,81007 ,2,4
+EMP2499,Operations,Bachelor's,Yes,Technician,6/1/2020 0:00,54179 ,5,9
